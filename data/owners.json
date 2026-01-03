@@ -1,0 +1,137 @@
+[
+  {
+    "ownerId": 11,
+    "ownerName": "Anderson-Baker",
+    "interestTypeCode": "NRI",
+    "ownerStatus": "INACTIVE",
+    "allocationCount": 8,
+    "avgAllocationPercentage": 35.893750000000004,
+    "totalRevenue": 540764.46
+  },
+  {
+    "ownerId": 2,
+    "ownerName": "Blackwell LLC",
+    "interestTypeCode": "RI",
+    "ownerStatus": "INACTIVE",
+    "allocationCount": 7,
+    "avgAllocationPercentage": 49.72571428571428,
+    "totalRevenue": 1006986.8600000001
+  },
+  {
+    "ownerId": 6,
+    "ownerName": "Brown, Daniels and Vance",
+    "interestTypeCode": "RI",
+    "ownerStatus": "INACTIVE",
+    "allocationCount": 8,
+    "avgAllocationPercentage": 59.209999999999994,
+    "totalRevenue": 1324519.99
+  },
+  {
+    "ownerId": 15,
+    "ownerName": "Cardenas-Blevins",
+    "interestTypeCode": "RI",
+    "ownerStatus": "ACTIVE",
+    "allocationCount": 9,
+    "avgAllocationPercentage": 46.738888888888894,
+    "totalRevenue": 1505264.06
+  },
+  {
+    "ownerId": 3,
+    "ownerName": "Coleman, Jordan and Carney",
+    "interestTypeCode": "NRI",
+    "ownerStatus": "SUSPENDED",
+    "allocationCount": 9,
+    "avgAllocationPercentage": 38.88222222222222,
+    "totalRevenue": 820338.95
+  },
+  {
+    "ownerId": 7,
+    "ownerName": "Compton Ltd",
+    "interestTypeCode": "NRI",
+    "ownerStatus": "INACTIVE",
+    "allocationCount": 8,
+    "avgAllocationPercentage": 65.155,
+    "totalRevenue": 1528701.95
+  },
+  {
+    "ownerId": 9,
+    "ownerName": "Frye, Webb and Ballard",
+    "interestTypeCode": "NRI",
+    "ownerStatus": "INACTIVE",
+    "allocationCount": 6,
+    "avgAllocationPercentage": 35.17166666666666,
+    "totalRevenue": 411328.8299999999
+  },
+  {
+    "ownerId": 8,
+    "ownerName": "Huber, Hill and Weber",
+    "interestTypeCode": "ORRI",
+    "ownerStatus": "SUSPENDED",
+    "allocationCount": 6,
+    "avgAllocationPercentage": 36.525,
+    "totalRevenue": 719219.26
+  },
+  {
+    "ownerId": 1,
+    "ownerName": "Marks-Williams",
+    "interestTypeCode": "ORRI",
+    "ownerStatus": "SUSPENDED",
+    "allocationCount": 7,
+    "avgAllocationPercentage": 41.221428571428575,
+    "totalRevenue": 890391.1299999999
+  },
+  {
+    "ownerId": 4,
+    "ownerName": "Palmer-Brady",
+    "interestTypeCode": "NRI",
+    "ownerStatus": "SUSPENDED",
+    "allocationCount": 7,
+    "avgAllocationPercentage": 47.64714285714286,
+    "totalRevenue": 1066178.48
+  },
+  {
+    "ownerId": 5,
+    "ownerName": "Ramirez, Horne and Johnson",
+    "interestTypeCode": "RI",
+    "ownerStatus": "ACTIVE",
+    "allocationCount": 3,
+    "avgAllocationPercentage": 66.70333333333333,
+    "totalRevenue": 337081.16000000003
+  },
+  {
+    "ownerId": 10,
+    "ownerName": "Roberts Group",
+    "interestTypeCode": "ORRI",
+    "ownerStatus": "SUSPENDED",
+    "allocationCount": 7,
+    "avgAllocationPercentage": 45.118571428571435,
+    "totalRevenue": 854335.19
+  },
+  {
+    "ownerId": 12,
+    "ownerName": "Taylor LLC",
+    "interestTypeCode": "NRI",
+    "ownerStatus": "ACTIVE",
+    "allocationCount": 6,
+    "avgAllocationPercentage": 71.85499999999999,
+    "totalRevenue": 244112.37
+  },
+  {
+    "ownerId": 14,
+    "ownerName": "Taylor, Clark and Nguyen",
+    "interestTypeCode": "NRI",
+    "ownerStatus": "INACTIVE",
+    "allocationCount": 5,
+    "avgAllocationPercentage": 28.704,
+    "totalRevenue": 317638.11
+  },
+  {
+    "ownerId": 13,
+    "ownerName": "Wells, Coffey and Patton",
+    "interestTypeCode": "WI",
+    "ownerStatus": "SUSPENDED",
+    "allocationCount": 10,
+    "avgAllocationPercentage": 45.641000000000005,
+    "totalRevenue": 856861.57
+  }
+]

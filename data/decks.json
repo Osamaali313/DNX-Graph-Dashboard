@@ -1,0 +1,162 @@
+[
+  {
+    "deckId": 1,
+    "deckCode": "DECK-001",
+    "description": "South Basin Operations",
+    "deckType": "CAPITAL",
+    "transactionCount": 7,
+    "totalSpent": 1970774.4899999998
+  },
+  {
+    "deckId": 2,
+    "deckCode": "DECK-002",
+    "description": "East Area Operations",
+    "deckType": "CAPITAL",
+    "transactionCount": 9,
+    "totalSpent": 2209753.45
+  },
+  {
+    "deckId": 3,
+    "deckCode": "DECK-003",
+    "description": "East Field Operations",
+    "deckType": "OVERHEAD",
+    "transactionCount": 9,
+    "totalSpent": 2084741.96
+  },
+  {
+    "deckId": 4,
+    "deckCode": "DECK-004",
+    "description": "East Field Operations",
+    "deckType": "OVERHEAD",
+    "transactionCount": 8,
+    "totalSpent": 1417821.35
+  },
+  {
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "description": "South Area Operations",
+    "deckType": "CAPITAL",
+    "transactionCount": 16,
+    "totalSpent": 3585486.58
+  },
+  {
+    "deckId": 6,
+    "deckCode": "DECK-006",
+    "description": "East Area Operations",
+    "deckType": "OPERATING",
+    "transactionCount": 5,
+    "totalSpent": 775691.8699999999
+  },
+  {
+    "deckId": 7,
+    "deckCode": "DECK-007",
+    "description": "North Field Operations",
+    "deckType": "OVERHEAD",
+    "transactionCount": 6,
+    "totalSpent": 1598040.94
+  },
+  {
+    "deckId": 8,
+    "deckCode": "DECK-008",
+    "description": "West Area Operations",
+    "deckType": "OPERATING",
+    "transactionCount": 9,
+    "totalSpent": 2423525.29
+  },
+  {
+    "deckId": 9,
+    "deckCode": "DECK-009",
+    "description": "East Area Operations",
+    "deckType": "OVERHEAD",
+    "transactionCount": 11,
+    "totalSpent": 2557527.4799999995
+  },
+  {
+    "deckId": 10,
+    "deckCode": "DECK-010",
+    "description": "South Area Operations",
+    "deckType": "REVENUE",
+    "transactionCount": 5,
+    "totalSpent": 1507224.33
+  },
+  {
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "description": "West Field Operations",
+    "deckType": "OPERATING",
+    "transactionCount": 16,
+    "totalSpent": 4415371.699999999
+  },
+  {
+    "deckId": 12,
+    "deckCode": "DECK-012",
+    "description": "West Basin Operations",
+    "deckType": "REVENUE",
+    "transactionCount": 9,
+    "totalSpent": 2177081.15
+  },
+  {
+    "deckId": 13,
+    "deckCode": "DECK-013",
+    "description": "South Basin Operations",
+    "deckType": "CAPITAL",
+    "transactionCount": 7,
+    "totalSpent": 1911658.6
+  },
+  {
+    "deckId": 14,
+    "deckCode": "DECK-014",
+    "description": "East Area Operations",
+    "deckType": "OVERHEAD",
+    "transactionCount": 8,
+    "totalSpent": 2037771.9000000004
+  },
+  {
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "description": "South Basin Operations",
+    "deckType": "OPERATING",
+    "transactionCount": 16,
+    "totalSpent": 4414262.01
+  },
+  {
+    "deckId": 16,
+    "deckCode": "DECK-016",
+    "description": "South Basin Operations",
+    "deckType": "OPERATING",
+    "transactionCount": 9,
+    "totalSpent": 1935457.1500000001
+  },
+  {
+    "deckId": 17,
+    "deckCode": "DECK-017",
+    "description": "West Field Operations",
+    "deckType": "CAPITAL",
+    "transactionCount": 10,
+    "totalSpent": 2254098.4699999997
+  },
+  {
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "description": "North Basin Operations",
+    "deckType": "REVENUE",
+    "transactionCount": 17,
+    "totalSpent": 4762040.88
+  },
+  {
+    "deckId": 19,
+    "deckCode": "DECK-019",
+    "description": "South Field Operations",
+    "deckType": "OVERHEAD",
+    "transactionCount": 12,
+    "totalSpent": 2677184.75
+  },
+  {
+    "deckId": 20,
+    "deckCode": "DECK-020",
+    "description": "South Field Operations",
+    "deckType": "REVENUE",
+    "transactionCount": 11,
+    "totalSpent": 2177533.9000000004
+  }
+]

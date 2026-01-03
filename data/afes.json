@@ -1,0 +1,302 @@
+[
+  {
+    "afeId": 1,
+    "afeNumber": "AFE-2025-0001",
+    "description": "Well Development Project 1",
+    "status": "APPROVED",
+    "totalBudget": 281220.57,
+    "totalSpent": 2285215.3,
+    "projectCode": "PROJ-4268",
+    "objectiveCode": "DRILL"
+  },
+  {
+    "afeId": 2,
+    "afeNumber": "AFE-2025-0002",
+    "description": "Well Development Project 2",
+    "status": "ACTIVE",
+    "totalBudget": 1646419.52,
+    "totalSpent": 1550111.57,
+    "projectCode": "PROJ-9897",
+    "objectiveCode": "FACILITY"
+  },
+  {
+    "afeId": 3,
+    "afeNumber": "AFE-2025-0003",
+    "description": "Well Development Project 3",
+    "status": "APPROVED",
+    "totalBudget": 1341237.45,
+    "totalSpent": 692924.1,
+    "projectCode": "PROJ-6848",
+    "objectiveCode": "WORKOVER"
+  },
+  {
+    "afeId": 4,
+    "afeNumber": "AFE-2025-0004",
+    "description": "Well Development Project 4",
+    "status": "ACTIVE",
+    "totalBudget": 4342411.56,
+    "totalSpent": 1692428.27,
+    "projectCode": "PROJ-3039",
+    "objectiveCode": "WORKOVER"
+  },
+  {
+    "afeId": 5,
+    "afeNumber": "AFE-2025-0005",
+    "description": "Well Development Project 5",
+    "status": "PENDING",
+    "totalBudget": 2241061.78,
+    "totalSpent": 1919781.6800000002,
+    "projectCode": "PROJ-7334",
+    "objectiveCode": "FACILITY"
+  },
+  {
+    "afeId": 6,
+    "afeNumber": "AFE-2025-0006",
+    "description": "Well Development Project 6",
+    "status": "PENDING",
+    "totalBudget": 4871245.56,
+    "totalSpent": 1281808.1199999999,
+    "projectCode": "PROJ-7018",
+    "objectiveCode": "FACILITY"
+  },
+  {
+    "afeId": 7,
+    "afeNumber": "AFE-2025-0007",
+    "description": "Well Development Project 7",
+    "status": "PENDING",
+    "totalBudget": 4025625.63,
+    "totalSpent": 831525.27,
+    "projectCode": "PROJ-8055",
+    "objectiveCode": "DRILL"
+  },
+  {
+    "afeId": 8,
+    "afeNumber": "AFE-2025-0008",
+    "description": "Well Development Project 8",
+    "status": "CLOSED",
+    "totalBudget": 2772824.55,
+    "totalSpent": 2239763.72,
+    "projectCode": "PROJ-2311",
+    "objectiveCode": "DRILL"
+  },
+  {
+    "afeId": 9,
+    "afeNumber": "AFE-2025-0009",
+    "description": "Well Development Project 9",
+    "status": "PENDING",
+    "totalBudget": 3338504.19,
+    "totalSpent": 966479.61,
+    "projectCode": "PROJ-7981",
+    "objectiveCode": "FACILITY"
+  },
+  {
+    "afeId": 10,
+    "afeNumber": "AFE-2025-0010",
+    "description": "Well Development Project 10",
+    "status": "CLOSED",
+    "totalBudget": 3479847.56,
+    "totalSpent": 934445.5,
+    "projectCode": "PROJ-1693",
+    "objectiveCode": "FACILITY"
+  },
+  {
+    "afeId": 11,
+    "afeNumber": "AFE-2025-0011",
+    "description": "Well Development Project 11",
+    "status": "PENDING",
+    "totalBudget": 3112772.26,
+    "totalSpent": 978343.1000000001,
+    "projectCode": "PROJ-1939",
+    "objectiveCode": "WORKOVER"
+  },
+  {
+    "afeId": 12,
+    "afeNumber": "AFE-2025-0012",
+    "description": "Well Development Project 12",
+    "status": "ACTIVE",
+    "totalBudget": 3388801.06,
+    "totalSpent": 532957,
+    "projectCode": "PROJ-9406",
+    "objectiveCode": "WORKOVER"
+  },
+  {
+    "afeId": 13,
+    "afeNumber": "AFE-2025-0013",
+    "description": "Well Development Project 13",
+    "status": "CLOSED",
+    "totalBudget": 4768668.04,
+    "totalSpent": 1536863.2400000002,
+    "projectCode": "PROJ-1570",
+    "objectiveCode": "FACILITY"
+  },
+  {
+    "afeId": 14,
+    "afeNumber": "AFE-2025-0014",
+    "description": "Well Development Project 14",
+    "status": "CLOSED",
+    "totalBudget": 429443.48,
+    "totalSpent": 2228466.14,
+    "projectCode": "PROJ-7272",
+    "objectiveCode": "WORKOVER"
+  },
+  {
+    "afeId": 15,
+    "afeNumber": "AFE-2025-0015",
+    "description": "Well Development Project 15",
+    "status": "ACTIVE",
+    "totalBudget": 3064964.66,
+    "totalSpent": 2072273.7500000002,
+    "projectCode": "PROJ-7095",
+    "objectiveCode": "WORKOVER"
+  },
+  {
+    "afeId": 16,
+    "afeNumber": "AFE-2025-0016",
+    "description": "Well Development Project 16",
+    "status": "APPROVED",
+    "totalBudget": 3839113.91,
+    "totalSpent": 1854259.52,
+    "projectCode": "PROJ-9674",
+    "objectiveCode": "COMPLETE"
+  },
+  {
+    "afeId": 17,
+    "afeNumber": "AFE-2025-0017",
+    "description": "Well Development Project 17",
+    "status": "PENDING",
+    "totalBudget": 2050366.83,
+    "totalSpent": 1162550.15,
+    "projectCode": "PROJ-2858",
+    "objectiveCode": "COMPLETE"
+  },
+  {
+    "afeId": 18,
+    "afeNumber": "AFE-2025-0018",
+    "description": "Well Development Project 18",
+    "status": "ACTIVE",
+    "totalBudget": 3704806.81,
+    "totalSpent": 484822.47000000003,
+    "projectCode": "PROJ-2929",
+    "objectiveCode": "FACILITY"
+  },
+  {
+    "afeId": 19,
+    "afeNumber": "AFE-2025-0019",
+    "description": "Well Development Project 19",
+    "status": "PENDING",
+    "totalBudget": 3897325.97,
+    "totalSpent": 2386018.55,
+    "projectCode": "PROJ-5678",
+    "objectiveCode": "COMPLETE"
+  },
+  {
+    "afeId": 20,
+    "afeNumber": "AFE-2025-0020",
+    "description": "Well Development Project 20",
+    "status": "APPROVED",
+    "totalBudget": 1080873.87,
+    "totalSpent": 1635000.52,
+    "projectCode": "PROJ-8406",
+    "objectiveCode": "DRILL"
+  },
+  {
+    "afeId": 21,
+    "afeNumber": "AFE-2025-0021",
+    "description": "Well Development Project 21",
+    "status": "CLOSED",
+    "totalBudget": 4503527.25,
+    "totalSpent": 2506325.46,
+    "projectCode": "PROJ-6236",
+    "objectiveCode": "DRILL"
+  },
+  {
+    "afeId": 22,
+    "afeNumber": "AFE-2025-0022",
+    "description": "Well Development Project 22",
+    "status": "PENDING",
+    "totalBudget": 3576748.39,
+    "totalSpent": 2725487.5300000003,
+    "projectCode": "PROJ-5914",
+    "objectiveCode": "WORKOVER"
+  },
+  {
+    "afeId": 23,
+    "afeNumber": "AFE-2025-0023",
+    "description": "Well Development Project 23",
+    "status": "CLOSED",
+    "totalBudget": 3587864.61,
+    "totalSpent": 2061118.7499999998,
+    "projectCode": "PROJ-9335",
+    "objectiveCode": "WORKOVER"
+  },
+  {
+    "afeId": 24,
+    "afeNumber": "AFE-2025-0024",
+    "description": "Well Development Project 24",
+    "status": "CLOSED",
+    "totalBudget": 694676.03,
+    "totalSpent": 673753.28,
+    "projectCode": "PROJ-4878",
+    "objectiveCode": "COMPLETE"
+  },
+  {
+    "afeId": 25,
+    "afeNumber": "AFE-2025-0025",
+    "description": "Well Development Project 25",
+    "status": "APPROVED",
+    "totalBudget": 228791.73,
+    "totalSpent": 1268652.01,
+    "projectCode": "PROJ-8657",
+    "objectiveCode": "WORKOVER"
+  },
+  {
+    "afeId": 26,
+    "afeNumber": "AFE-2025-0026",
+    "description": "Well Development Project 26",
+    "status": "CLOSED",
+    "totalBudget": 3098546.98,
+    "totalSpent": 1979104.0699999998,
+    "projectCode": "PROJ-6067",
+    "objectiveCode": "DRILL"
+  },
+  {
+    "afeId": 27,
+    "afeNumber": "AFE-2025-0027",
+    "description": "Well Development Project 27",
+    "status": "APPROVED",
+    "totalBudget": 4998015.72,
+    "totalSpent": 2927143.5700000003,
+    "projectCode": "PROJ-7708",
+    "objectiveCode": "FACILITY"
+  },
+  {
+    "afeId": 28,
+    "afeNumber": "AFE-2025-0028",
+    "description": "Well Development Project 28",
+    "status": "ACTIVE",
+    "totalBudget": 714101.23,
+    "totalSpent": 2085769.12,
+    "projectCode": "PROJ-8372",
+    "objectiveCode": "DRILL"
+  },
+  {
+    "afeId": 29,
+    "afeNumber": "AFE-2025-0029",
+    "description": "Well Development Project 29",
+    "status": "APPROVED",
+    "totalBudget": 3432534.05,
+    "totalSpent": 852717.0900000001,
+    "projectCode": "PROJ-3981",
+    "objectiveCode": "COMPLETE"
+  },
+  {
+    "afeId": 30,
+    "afeNumber": "AFE-2025-0030",
+    "description": "Well Development Project 30",
+    "status": "CLOSED",
+    "totalBudget": 2219829.6,
+    "totalSpent": 2546939.79,
+    "projectCode": "PROJ-9488",
+    "objectiveCode": "DRILL"
+  }
+]

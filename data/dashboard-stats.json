@@ -1,0 +1,14 @@
+{
+  "totalTransactions": 200,
+  "totalAmount": 48893048.25,
+  "activeAFEs": 6,
+  "totalOwners": 15,
+  "totalDecks": 20,
+  "totalRelationships": 651,
+  "pendingTransactions": 50,
+  "afeBudgetSummary": {
+    "totalBudget": 575903334.0300007,
+    "totalSpent": 48893048.24999997,
+    "remaining": 527010285.7800007
+  }
+}

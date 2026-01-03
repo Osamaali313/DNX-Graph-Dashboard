@@ -1,0 +1,3288 @@
+[
+  {
+    "txnId": 200,
+    "txnDate": "2025-12-06",
+    "amount": 415208.79,
+    "description": "Stuff practice social case.",
+    "status": "POSTED",
+    "deckId": 6,
+    "deckCode": "DECK-006",
+    "afeId": 5,
+    "afeNumber": "AFE-2025-0005",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 10,
+    "txnDate": "2025-12-02",
+    "amount": 114601.13,
+    "description": "Detail food shoulder argue start source husband.",
+    "status": "APPROVED",
+    "deckId": 9,
+    "deckCode": "DECK-009",
+    "afeId": 7,
+    "afeNumber": "AFE-2025-0007",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 3,
+        "ownerName": "Coleman, Jordan and Carney",
+        "allocationPercentage": 46.07,
+        "allocatedAmount": 52802.42
+      },
+      {
+        "ownerId": 4,
+        "ownerName": "Palmer-Brady",
+        "allocationPercentage": 23.88,
+        "allocatedAmount": 27367.5
+      },
+      {
+        "ownerId": 14,
+        "ownerName": "Taylor, Clark and Nguyen",
+        "allocationPercentage": 30.04,
+        "allocatedAmount": 34431.21
+      }
+    ]
+  },
+  {
+    "txnId": 49,
+    "txnDate": "2025-11-27",
+    "amount": 483447.86,
+    "description": "Glass star the development process huge everything.",
+    "status": "REJECTED",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 1,
+    "afeNumber": "AFE-2025-0001",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 2,
+        "ownerName": "Blackwell LLC",
+        "allocationPercentage": 24.17,
+        "allocatedAmount": 116858.81
+      },
+      {
+        "ownerId": 6,
+        "ownerName": "Brown, Daniels and Vance",
+        "allocationPercentage": 75.83,
+        "allocatedAmount": 366589.05
+      }
+    ]
+  },
+  {
+    "txnId": 64,
+    "txnDate": "2025-11-26",
+    "amount": 135930.38,
+    "description": "Lead soon property write.",
+    "status": "REJECTED",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 8,
+    "afeNumber": "AFE-2025-0008",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 138,
+    "txnDate": "2025-11-23",
+    "amount": 345171.3,
+    "description": "Store either station loss southern.",
+    "status": "PENDING",
+    "deckId": 12,
+    "deckCode": "DECK-012",
+    "afeId": 22,
+    "afeNumber": "AFE-2025-0022",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 143,
+    "txnDate": "2025-11-20",
+    "amount": 125402.03,
+    "description": "Power bring animal also you.",
+    "status": "PENDING",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 12,
+    "afeNumber": "AFE-2025-0012",
+    "billingCategory": "CAT-115",
+    "owners": []
+  },
+  {
+    "txnId": 134,
+    "txnDate": "2025-11-14",
+    "amount": 54262.22,
+    "description": "Simply discover soon despite couple.",
+    "status": "PENDING",
+    "deckId": 20,
+    "deckCode": "DECK-020",
+    "afeId": 21,
+    "afeNumber": "AFE-2025-0021",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 12,
+    "txnDate": "2025-10-31",
+    "amount": 69901.2,
+    "description": "Central cause seat much section investment on.",
+    "status": "REJECTED",
+    "deckId": 19,
+    "deckCode": "DECK-019",
+    "afeId": 12,
+    "afeNumber": "AFE-2025-0012",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 12,
+        "ownerName": "Taylor LLC",
+        "allocationPercentage": 100,
+        "allocatedAmount": 69901.2
+      }
+    ]
+  },
+  {
+    "txnId": 27,
+    "txnDate": "2025-10-23",
+    "amount": 224361.91,
+    "description": "Kitchen technology nearly anything.",
+    "status": "POSTED",
+    "deckId": 8,
+    "deckCode": "DECK-008",
+    "afeId": 30,
+    "afeNumber": "AFE-2025-0030",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 7,
+        "ownerName": "Compton Ltd",
+        "allocationPercentage": 35.76,
+        "allocatedAmount": 80237.14
+      },
+      {
+        "ownerId": 10,
+        "ownerName": "Roberts Group",
+        "allocationPercentage": 21.6,
+        "allocatedAmount": 48456.81
+      },
+      {
+        "ownerId": 13,
+        "ownerName": "Wells, Coffey and Patton",
+        "allocationPercentage": 42.64,
+        "allocatedAmount": 95667.97
+      }
+    ]
+  },
+  {
+    "txnId": 188,
+    "txnDate": "2025-10-22",
+    "amount": 320625.4,
+    "description": "Four old center glass.",
+    "status": "REJECTED",
+    "deckId": 17,
+    "deckCode": "DECK-017",
+    "afeId": 4,
+    "afeNumber": "AFE-2025-0004",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 155,
+    "txnDate": "2025-10-18",
+    "amount": 183843.77,
+    "description": "Feeling poor all your suggest international blue.",
+    "status": "REJECTED",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 27,
+    "afeNumber": "AFE-2025-0027",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 152,
+    "txnDate": "2025-10-17",
+    "amount": 46705.73,
+    "description": "Capital group small.",
+    "status": "APPROVED",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 2,
+    "afeNumber": "AFE-2025-0002",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 133,
+    "txnDate": "2025-10-16",
+    "amount": 7057.94,
+    "description": "Treat seat strategy.",
+    "status": "APPROVED",
+    "deckId": 19,
+    "deckCode": "DECK-019",
+    "afeId": 27,
+    "afeNumber": "AFE-2025-0027",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 46,
+    "txnDate": "2025-10-16",
+    "amount": 391215.01,
+    "description": "Wish specific thing agent.",
+    "status": "POSTED",
+    "deckId": 9,
+    "deckCode": "DECK-009",
+    "afeId": 26,
+    "afeNumber": "AFE-2025-0026",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 7,
+        "ownerName": "Compton Ltd",
+        "allocationPercentage": 100,
+        "allocatedAmount": 391215.01
+      }
+    ]
+  },
+  {
+    "txnId": 116,
+    "txnDate": "2025-10-15",
+    "amount": 437107.77,
+    "description": "Everybody so increase various.",
+    "status": "POSTED",
+    "deckId": 1,
+    "deckCode": "DECK-001",
+    "afeId": 5,
+    "afeNumber": "AFE-2025-0005",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 44,
+    "txnDate": "2025-10-13",
+    "amount": 105117.26,
+    "description": "Together decide economic.",
+    "status": "PENDING",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 14,
+    "afeNumber": "AFE-2025-0014",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 6,
+        "ownerName": "Brown, Daniels and Vance",
+        "allocationPercentage": 48.88,
+        "allocatedAmount": 51378.28
+      },
+      {
+        "ownerId": 7,
+        "ownerName": "Compton Ltd",
+        "allocationPercentage": 51.12,
+        "allocatedAmount": 53738.98
+      }
+    ]
+  },
+  {
+    "txnId": 73,
+    "txnDate": "2025-09-27",
+    "amount": 377141.18,
+    "description": "Try wonder move trade option production base.",
+    "status": "PENDING",
+    "deckId": 20,
+    "deckCode": "DECK-020",
+    "afeId": 8,
+    "afeNumber": "AFE-2025-0008",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 115,
+    "txnDate": "2025-09-23",
+    "amount": 193100.77,
+    "description": "Woman during necessary himself two meet these.",
+    "status": "PENDING",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 19,
+    "afeNumber": "AFE-2025-0019",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 43,
+    "txnDate": "2025-09-22",
+    "amount": 276307.3,
+    "description": "Old challenge camera final together someone.",
+    "status": "POSTED",
+    "deckId": 12,
+    "deckCode": "DECK-012",
+    "afeId": 28,
+    "afeNumber": "AFE-2025-0028",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 10,
+        "ownerName": "Roberts Group",
+        "allocationPercentage": 65.78,
+        "allocatedAmount": 181767.05
+      },
+      {
+        "ownerId": 14,
+        "ownerName": "Taylor, Clark and Nguyen",
+        "allocationPercentage": 34.22,
+        "allocatedAmount": 94540.25
+      }
+    ]
+  },
+  {
+    "txnId": 176,
+    "txnDate": "2025-09-20",
+    "amount": 478865.41,
+    "description": "Because such during open model how.",
+    "status": "POSTED",
+    "deckId": 3,
+    "deckCode": "DECK-003",
+    "afeId": 21,
+    "afeNumber": "AFE-2025-0021",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 160,
+    "txnDate": "2025-09-20",
+    "amount": 24976.27,
+    "description": "Behavior benefit school speech.",
+    "status": "APPROVED",
+    "deckId": 16,
+    "deckCode": "DECK-016",
+    "afeId": 15,
+    "afeNumber": "AFE-2025-0015",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 196,
+    "txnDate": "2025-08-28",
+    "amount": 176472.74,
+    "description": "Catch economic political them never bill suffer surface.",
+    "status": "POSTED",
+    "deckId": 17,
+    "deckCode": "DECK-017",
+    "afeId": 3,
+    "afeNumber": "AFE-2025-0003",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 72,
+    "txnDate": "2025-08-26",
+    "amount": 417471.97,
+    "description": "Today major event magazine home protect something right.",
+    "status": "POSTED",
+    "deckId": 12,
+    "deckCode": "DECK-012",
+    "afeId": 21,
+    "afeNumber": "AFE-2025-0021",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 98,
+    "txnDate": "2025-08-19",
+    "amount": 393935.23,
+    "description": "Difficult mission late kind team wrong figure perform.",
+    "status": "PENDING",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 27,
+    "afeNumber": "AFE-2025-0027",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 187,
+    "txnDate": "2025-08-18",
+    "amount": 251503.06,
+    "description": "Positive at behind question exist rich prevent trade.",
+    "status": "POSTED",
+    "deckId": 20,
+    "deckCode": "DECK-020",
+    "afeId": 28,
+    "afeNumber": "AFE-2025-0028",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 80,
+    "txnDate": "2025-08-09",
+    "amount": 482740.32,
+    "description": "Who blue agent find.",
+    "status": "REJECTED",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 27,
+    "afeNumber": "AFE-2025-0027",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 178,
+    "txnDate": "2025-08-08",
+    "amount": 204443.82,
+    "description": "Go when population challenge bill eight.",
+    "status": "REJECTED",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 11,
+    "afeNumber": "AFE-2025-0011",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 82,
+    "txnDate": "2025-08-05",
+    "amount": 284967.84,
+    "description": "Sure outside building worker site.",
+    "status": "POSTED",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 16,
+    "afeNumber": "AFE-2025-0016",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 193,
+    "txnDate": "2025-08-04",
+    "amount": 9600.04,
+    "description": "Speak close join improve put down know expect.",
+    "status": "PENDING",
+    "deckId": 4,
+    "deckCode": "DECK-004",
+    "afeId": 10,
+    "afeNumber": "AFE-2025-0010",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 61,
+    "txnDate": "2025-08-02",
+    "amount": 228285.27,
+    "description": "Lay though offer responsibility.",
+    "status": "POSTED",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 27,
+    "afeNumber": "AFE-2025-0027",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 165,
+    "txnDate": "2025-08-01",
+    "amount": 36130.54,
+    "description": "Party poor ago upon stop environment Congress reflect.",
+    "status": "APPROVED",
+    "deckId": 3,
+    "deckCode": "DECK-003",
+    "afeId": 11,
+    "afeNumber": "AFE-2025-0011",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 191,
+    "txnDate": "2025-07-31",
+    "amount": 187518.85,
+    "description": "Court yourself choice fast small medical music.",
+    "status": "APPROVED",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 5,
+    "afeNumber": "AFE-2025-0005",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 194,
+    "txnDate": "2025-07-18",
+    "amount": 61011.99,
+    "description": "Doctor dream whole six tough create question.",
+    "status": "PENDING",
+    "deckId": 3,
+    "deckCode": "DECK-003",
+    "afeId": 27,
+    "afeNumber": "AFE-2025-0027",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 126,
+    "txnDate": "2025-07-16",
+    "amount": 148006.61,
+    "description": "Its better plant their.",
+    "status": "REJECTED",
+    "deckId": 9,
+    "deckCode": "DECK-009",
+    "afeId": 19,
+    "afeNumber": "AFE-2025-0019",
+    "billingCategory": "CAT-108",
+    "owners": []
+  },
+  {
+    "txnId": 139,
+    "txnDate": "2025-07-16",
+    "amount": 450857.94,
+    "description": "Sound life away senior difficult put.",
+    "status": "REJECTED",
+    "deckId": 7,
+    "deckCode": "DECK-007",
+    "afeId": 28,
+    "afeNumber": "AFE-2025-0028",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 145,
+    "txnDate": "2025-07-13",
+    "amount": 372858.07,
+    "description": "Industry score choice increase between majority impact.",
+    "status": "POSTED",
+    "deckId": 17,
+    "deckCode": "DECK-017",
+    "afeId": 4,
+    "afeNumber": "AFE-2025-0004",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 192,
+    "txnDate": "2025-07-10",
+    "amount": 143511.01,
+    "description": "Also from short capital heavy class story.",
+    "status": "POSTED",
+    "deckId": 16,
+    "deckCode": "DECK-016",
+    "afeId": 20,
+    "afeNumber": "AFE-2025-0020",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 92,
+    "txnDate": "2025-07-10",
+    "amount": 200413.65,
+    "description": "Everybody operation set others wonder strategy fast.",
+    "status": "APPROVED",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 26,
+    "afeNumber": "AFE-2025-0026",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 47,
+    "txnDate": "2025-07-08",
+    "amount": 191332.61,
+    "description": "Site in prove same easy city.",
+    "status": "APPROVED",
+    "deckId": 7,
+    "deckCode": "DECK-007",
+    "afeId": 30,
+    "afeNumber": "AFE-2025-0030",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 12,
+        "ownerName": "Taylor LLC",
+        "allocationPercentage": 41.12,
+        "allocatedAmount": 78684.11
+      },
+      {
+        "ownerId": 15,
+        "ownerName": "Cardenas-Blevins",
+        "allocationPercentage": 58.88,
+        "allocatedAmount": 112648.5
+      }
+    ]
+  },
+  {
+    "txnId": 24,
+    "txnDate": "2025-06-28",
+    "amount": 107196.98,
+    "description": "Office drug list imagine behind probably great.",
+    "status": "PENDING",
+    "deckId": 8,
+    "deckCode": "DECK-008",
+    "afeId": 16,
+    "afeNumber": "AFE-2025-0016",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 13,
+        "ownerName": "Wells, Coffey and Patton",
+        "allocationPercentage": 100,
+        "allocatedAmount": 107196.98
+      }
+    ]
+  },
+  {
+    "txnId": 185,
+    "txnDate": "2025-06-21",
+    "amount": 484797.34,
+    "description": "Mean common easy just.",
+    "status": "REJECTED",
+    "deckId": 8,
+    "deckCode": "DECK-008",
+    "afeId": 8,
+    "afeNumber": "AFE-2025-0008",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 156,
+    "txnDate": "2025-06-19",
+    "amount": 337520.86,
+    "description": "Available ball part assume every plan.",
+    "status": "APPROVED",
+    "deckId": 1,
+    "deckCode": "DECK-001",
+    "afeId": 9,
+    "afeNumber": "AFE-2025-0009",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 23,
+    "txnDate": "2025-06-16",
+    "amount": 114548,
+    "description": "Arrive attack all form method everything magazine much.",
+    "status": "APPROVED",
+    "deckId": 17,
+    "deckCode": "DECK-017",
+    "afeId": 9,
+    "afeNumber": "AFE-2025-0009",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 9,
+        "ownerName": "Frye, Webb and Ballard",
+        "allocationPercentage": 65.44,
+        "allocatedAmount": 74955.23
+      },
+      {
+        "ownerId": 11,
+        "ownerName": "Anderson-Baker",
+        "allocationPercentage": 34.56,
+        "allocatedAmount": 39592.77
+      }
+    ]
+  },
+  {
+    "txnId": 173,
+    "txnDate": "2025-06-13",
+    "amount": 295750.74,
+    "description": "Matter street south author technology.",
+    "status": "REJECTED",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 2,
+    "afeNumber": "AFE-2025-0002",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 48,
+    "txnDate": "2025-06-11",
+    "amount": 152664.91,
+    "description": "Him although likely current.",
+    "status": "PENDING",
+    "deckId": 13,
+    "deckCode": "DECK-013",
+    "afeId": 9,
+    "afeNumber": "AFE-2025-0009",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 6,
+        "ownerName": "Brown, Daniels and Vance",
+        "allocationPercentage": 100,
+        "allocatedAmount": 152664.91
+      }
+    ]
+  },
+  {
+    "txnId": 70,
+    "txnDate": "2025-06-06",
+    "amount": 42065.34,
+    "description": "Task she herself.",
+    "status": "POSTED",
+    "deckId": 6,
+    "deckCode": "DECK-006",
+    "afeId": 9,
+    "afeNumber": "AFE-2025-0009",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 180,
+    "txnDate": "2025-05-26",
+    "amount": 458381.55,
+    "description": "Poor worry follow wife firm key light.",
+    "status": "REJECTED",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 23,
+    "afeNumber": "AFE-2025-0023",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 81,
+    "txnDate": "2025-05-23",
+    "amount": 134270.93,
+    "description": "However resource away real physical big.",
+    "status": "PENDING",
+    "deckId": 9,
+    "deckCode": "DECK-009",
+    "afeId": 8,
+    "afeNumber": "AFE-2025-0008",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 2,
+    "txnDate": "2025-05-23",
+    "amount": 43560.72,
+    "description": "Beautiful instead ahead despite measure ago current.",
+    "status": "POSTED",
+    "deckId": 7,
+    "deckCode": "DECK-007",
+    "afeId": 17,
+    "afeNumber": "AFE-2025-0017",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 3,
+        "ownerName": "Coleman, Jordan and Carney",
+        "allocationPercentage": 25.16,
+        "allocatedAmount": 10961.4
+      },
+      {
+        "ownerId": 6,
+        "ownerName": "Brown, Daniels and Vance",
+        "allocationPercentage": 53.07,
+        "allocatedAmount": 23116.28
+      },
+      {
+        "ownerId": 13,
+        "ownerName": "Wells, Coffey and Patton",
+        "allocationPercentage": 21.77,
+        "allocatedAmount": 9483.05
+      }
+    ]
+  },
+  {
+    "txnId": 33,
+    "txnDate": "2025-05-22",
+    "amount": 201947.4,
+    "description": "Identify walk now often always.",
+    "status": "PENDING",
+    "deckId": 20,
+    "deckCode": "DECK-020",
+    "afeId": 14,
+    "afeNumber": "AFE-2025-0014",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 2,
+        "ownerName": "Blackwell LLC",
+        "allocationPercentage": 28.63,
+        "allocatedAmount": 57810.44
+      },
+      {
+        "ownerId": 3,
+        "ownerName": "Coleman, Jordan and Carney",
+        "allocationPercentage": 71.37,
+        "allocatedAmount": 144136.96
+      }
+    ]
+  },
+  {
+    "txnId": 140,
+    "txnDate": "2025-05-21",
+    "amount": 45927.54,
+    "description": "Whose source hand so add Mr.",
+    "status": "PENDING",
+    "deckId": 2,
+    "deckCode": "DECK-002",
+    "afeId": 11,
+    "afeNumber": "AFE-2025-0011",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 55,
+    "txnDate": "2025-05-13",
+    "amount": 274013.81,
+    "description": "Perhaps professional by tonight medical project.",
+    "status": "APPROVED",
+    "deckId": 14,
+    "deckCode": "DECK-014",
+    "afeId": 19,
+    "afeNumber": "AFE-2025-0019",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 110,
+    "txnDate": "2025-05-12",
+    "amount": 254485.12,
+    "description": "Spend nearly lawyer fire follow wife.",
+    "status": "REJECTED",
+    "deckId": 16,
+    "deckCode": "DECK-016",
+    "afeId": 15,
+    "afeNumber": "AFE-2025-0015",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 103,
+    "txnDate": "2025-05-11",
+    "amount": 484530.71,
+    "description": "Interesting name positive training step.",
+    "status": "POSTED",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 4,
+    "afeNumber": "AFE-2025-0004",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 189,
+    "txnDate": "2025-05-07",
+    "amount": 381582.1,
+    "description": "Can remember be next poor foreign.",
+    "status": "REJECTED",
+    "deckId": 14,
+    "deckCode": "DECK-014",
+    "afeId": 30,
+    "afeNumber": "AFE-2025-0030",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 123,
+    "txnDate": "2025-05-06",
+    "amount": 318988.53,
+    "description": "Avoid sit enter perhaps.",
+    "status": "POSTED",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 22,
+    "afeNumber": "AFE-2025-0022",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 38,
+    "txnDate": "2025-05-05",
+    "amount": 333964.82,
+    "description": "Account stage federal professional voice care break.",
+    "status": "REJECTED",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 4,
+    "afeNumber": "AFE-2025-0004",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 3,
+        "ownerName": "Coleman, Jordan and Carney",
+        "allocationPercentage": 36.99,
+        "allocatedAmount": 123532.77
+      },
+      {
+        "ownerId": 7,
+        "ownerName": "Compton Ltd",
+        "allocationPercentage": 37.04,
+        "allocatedAmount": 123686.61
+      },
+      {
+        "ownerId": 14,
+        "ownerName": "Taylor, Clark and Nguyen",
+        "allocationPercentage": 25.97,
+        "allocatedAmount": 86745.44
+      }
+    ]
+  },
+  {
+    "txnId": 3,
+    "txnDate": "2025-05-02",
+    "amount": 280666.41,
+    "description": "Information last everything thank serve civil institution.",
+    "status": "POSTED",
+    "deckId": 1,
+    "deckCode": "DECK-001",
+    "afeId": 26,
+    "afeNumber": "AFE-2025-0026",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 1,
+        "ownerName": "Marks-Williams",
+        "allocationPercentage": 43.9,
+        "allocatedAmount": 123203.25
+      },
+      {
+        "ownerId": 9,
+        "ownerName": "Frye, Webb and Ballard",
+        "allocationPercentage": 48.27,
+        "allocatedAmount": 135465.72
+      },
+      {
+        "ownerId": 11,
+        "ownerName": "Anderson-Baker",
+        "allocationPercentage": 7.84,
+        "allocatedAmount": 21997.44
+      }
+    ]
+  },
+  {
+    "txnId": 149,
+    "txnDate": "2025-04-24",
+    "amount": 252824.98,
+    "description": "Wife anything four writer skin day stop never.",
+    "status": "POSTED",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 28,
+    "afeNumber": "AFE-2025-0028",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 1,
+    "txnDate": "2025-04-24",
+    "amount": 12602.88,
+    "description": "Agent every development say.",
+    "status": "REJECTED",
+    "deckId": 4,
+    "deckCode": "DECK-004",
+    "afeId": 24,
+    "afeNumber": "AFE-2025-0024",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 11,
+        "ownerName": "Anderson-Baker",
+        "allocationPercentage": 40.62,
+        "allocatedAmount": 5119.44
+      },
+      {
+        "ownerId": 12,
+        "ownerName": "Taylor LLC",
+        "allocationPercentage": 59.38,
+        "allocatedAmount": 7483.44
+      }
+    ]
+  },
+  {
+    "txnId": 9,
+    "txnDate": "2025-04-20",
+    "amount": 364590.49,
+    "description": "Move each left establish.",
+    "status": "PENDING",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 22,
+    "afeNumber": "AFE-2025-0022",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 2,
+        "ownerName": "Blackwell LLC",
+        "allocationPercentage": 100,
+        "allocatedAmount": 364590.49
+      }
+    ]
+  },
+  {
+    "txnId": 181,
+    "txnDate": "2025-04-18",
+    "amount": 279505.14,
+    "description": "Someone option goal avoid left.",
+    "status": "REJECTED",
+    "deckId": 14,
+    "deckCode": "DECK-014",
+    "afeId": 12,
+    "afeNumber": "AFE-2025-0012",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 113,
+    "txnDate": "2025-04-17",
+    "amount": 223329.04,
+    "description": "Son report financial add impact different success box.",
+    "status": "POSTED",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 28,
+    "afeNumber": "AFE-2025-0028",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 36,
+    "txnDate": "2025-04-10",
+    "amount": 36723.03,
+    "description": "You available defense enter value thing these.",
+    "status": "PENDING",
+    "deckId": 12,
+    "deckCode": "DECK-012",
+    "afeId": 29,
+    "afeNumber": "AFE-2025-0029",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 12,
+        "ownerName": "Taylor LLC",
+        "allocationPercentage": 100,
+        "allocatedAmount": 36723.03
+      }
+    ]
+  },
+  {
+    "txnId": 99,
+    "txnDate": "2025-04-01",
+    "amount": 29913.06,
+    "description": "Way debate decision produce.",
+    "status": "REJECTED",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 15,
+    "afeNumber": "AFE-2025-0015",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 171,
+    "txnDate": "2025-03-24",
+    "amount": 88655.35,
+    "description": "Account feeling deep case.",
+    "status": "POSTED",
+    "deckId": 19,
+    "deckCode": "DECK-019",
+    "afeId": 21,
+    "afeNumber": "AFE-2025-0021",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 65,
+    "txnDate": "2025-03-21",
+    "amount": 353238.93,
+    "description": "Wear through partner rest measure store.",
+    "status": "APPROVED",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 14,
+    "afeNumber": "AFE-2025-0014",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 153,
+    "txnDate": "2025-03-16",
+    "amount": 280885.52,
+    "description": "Administration enter camera inside box as.",
+    "status": "APPROVED",
+    "deckId": 2,
+    "deckCode": "DECK-002",
+    "afeId": 20,
+    "afeNumber": "AFE-2025-0020",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 150,
+    "txnDate": "2025-03-14",
+    "amount": 225832.3,
+    "description": "Spend do similar small other.",
+    "status": "PENDING",
+    "deckId": 13,
+    "deckCode": "DECK-013",
+    "afeId": 24,
+    "afeNumber": "AFE-2025-0024",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 32,
+    "txnDate": "2025-03-12",
+    "amount": 78800.62,
+    "description": "Me system church whether bag control organization.",
+    "status": "APPROVED",
+    "deckId": 20,
+    "deckCode": "DECK-020",
+    "afeId": 22,
+    "afeNumber": "AFE-2025-0022",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 5,
+        "ownerName": "Ramirez, Horne and Johnson",
+        "allocationPercentage": 100,
+        "allocatedAmount": 78800.62
+      }
+    ]
+  },
+  {
+    "txnId": 195,
+    "txnDate": "2025-03-01",
+    "amount": 298409.85,
+    "description": "Left example high month whom stage.",
+    "status": "APPROVED",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 14,
+    "afeNumber": "AFE-2025-0014",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 161,
+    "txnDate": "2025-02-18",
+    "amount": 107862.93,
+    "description": "Only no form business.",
+    "status": "APPROVED",
+    "deckId": 10,
+    "deckCode": "DECK-010",
+    "afeId": 22,
+    "afeNumber": "AFE-2025-0022",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 6,
+    "txnDate": "2025-02-15",
+    "amount": 276065.11,
+    "description": "Stop peace technology officer relate.",
+    "status": "REJECTED",
+    "deckId": 2,
+    "deckCode": "DECK-002",
+    "afeId": 8,
+    "afeNumber": "AFE-2025-0008",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 8,
+        "ownerName": "Huber, Hill and Weber",
+        "allocationPercentage": 41.27,
+        "allocatedAmount": 113927.84
+      },
+      {
+        "ownerId": 10,
+        "ownerName": "Roberts Group",
+        "allocationPercentage": 9.69,
+        "allocatedAmount": 26764.19
+      },
+      {
+        "ownerId": 15,
+        "ownerName": "Cardenas-Blevins",
+        "allocationPercentage": 49.04,
+        "allocatedAmount": 135373.07
+      }
+    ]
+  },
+  {
+    "txnId": 157,
+    "txnDate": "2025-02-12",
+    "amount": 460776.61,
+    "description": "Herself our far measure involve soldier.",
+    "status": "REJECTED",
+    "deckId": 19,
+    "deckCode": "DECK-019",
+    "afeId": 13,
+    "afeNumber": "AFE-2025-0013",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 66,
+    "txnDate": "2025-02-12",
+    "amount": 416462.3,
+    "description": "Today season listen else easy point she.",
+    "status": "POSTED",
+    "deckId": 19,
+    "deckCode": "DECK-019",
+    "afeId": 16,
+    "afeNumber": "AFE-2025-0016",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 28,
+    "txnDate": "2025-02-06",
+    "amount": 404030.32,
+    "description": "Why unit support.",
+    "status": "APPROVED",
+    "deckId": 3,
+    "deckCode": "DECK-003",
+    "afeId": 28,
+    "afeNumber": "AFE-2025-0028",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 4,
+        "ownerName": "Palmer-Brady",
+        "allocationPercentage": 68.49,
+        "allocatedAmount": 276728.14
+      },
+      {
+        "ownerId": 8,
+        "ownerName": "Huber, Hill and Weber",
+        "allocationPercentage": 31.51,
+        "allocatedAmount": 127302.18
+      }
+    ]
+  },
+  {
+    "txnId": 90,
+    "txnDate": "2025-01-30",
+    "amount": 348738.95,
+    "description": "International second former reflect even edge.",
+    "status": "PENDING",
+    "deckId": 4,
+    "deckCode": "DECK-004",
+    "afeId": 1,
+    "afeNumber": "AFE-2025-0001",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 21,
+    "txnDate": "2025-01-27",
+    "amount": 356503.19,
+    "description": "Institution deep much role cut find yet practice.",
+    "status": "POSTED",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 15,
+    "afeNumber": "AFE-2025-0015",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 1,
+        "ownerName": "Marks-Williams",
+        "allocationPercentage": 44.92,
+        "allocatedAmount": 160128.3
+      },
+      {
+        "ownerId": 4,
+        "ownerName": "Palmer-Brady",
+        "allocationPercentage": 55.08,
+        "allocatedAmount": 196374.89
+      }
+    ]
+  },
+  {
+    "txnId": 67,
+    "txnDate": "2025-01-22",
+    "amount": 149376.46,
+    "description": "Phone ever back experience even floor music.",
+    "status": "POSTED",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 24,
+    "afeNumber": "AFE-2025-0024",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 53,
+    "txnDate": "2025-01-14",
+    "amount": 359905.16,
+    "description": "History office effort remember.",
+    "status": "REJECTED",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 23,
+    "afeNumber": "AFE-2025-0023",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 117,
+    "txnDate": "2025-01-12",
+    "amount": 37506.64,
+    "description": "Star executive fear only your.",
+    "status": "REJECTED",
+    "deckId": 3,
+    "deckCode": "DECK-003",
+    "afeId": 11,
+    "afeNumber": "AFE-2025-0011",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 18,
+    "txnDate": "2025-01-11",
+    "amount": 299512.4,
+    "description": "Current hear claim well two truth out major.",
+    "status": "POSTED",
+    "deckId": 10,
+    "deckCode": "DECK-010",
+    "afeId": 2,
+    "afeNumber": "AFE-2025-0002",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 4,
+        "ownerName": "Palmer-Brady",
+        "allocationPercentage": 100,
+        "allocatedAmount": 299512.4
+      }
+    ]
+  },
+  {
+    "txnId": 17,
+    "txnDate": "2025-01-06",
+    "amount": 420850.51,
+    "description": "Medical blood personal success.",
+    "status": "PENDING",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 30,
+    "afeNumber": "AFE-2025-0030",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 15,
+        "ownerName": "Cardenas-Blevins",
+        "allocationPercentage": 100,
+        "allocatedAmount": 420850.51
+      }
+    ]
+  },
+  {
+    "txnId": 112,
+    "txnDate": "2025-01-04",
+    "amount": 133659.61,
+    "description": "Kind appear environment capital explain thing machine ahead.",
+    "status": "APPROVED",
+    "deckId": 19,
+    "deckCode": "DECK-019",
+    "afeId": 22,
+    "afeNumber": "AFE-2025-0022",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 96,
+    "txnDate": "2024-12-30",
+    "amount": 78612.84,
+    "description": "Officer rather charge specific.",
+    "status": "PENDING",
+    "deckId": 1,
+    "deckCode": "DECK-001",
+    "afeId": 15,
+    "afeNumber": "AFE-2025-0015",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 118,
+    "txnDate": "2024-12-28",
+    "amount": 190066.7,
+    "description": "Land machine forward several.",
+    "status": "REJECTED",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 20,
+    "afeNumber": "AFE-2025-0020",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 85,
+    "txnDate": "2024-12-24",
+    "amount": 396487.14,
+    "description": "Itself room environmental system store beautiful think.",
+    "status": "APPROVED",
+    "deckId": 8,
+    "deckCode": "DECK-008",
+    "afeId": 22,
+    "afeNumber": "AFE-2025-0022",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 95,
+    "txnDate": "2024-12-20",
+    "amount": 284357.87,
+    "description": "Future whole education technology box assume.",
+    "status": "APPROVED",
+    "deckId": 7,
+    "deckCode": "DECK-007",
+    "afeId": 7,
+    "afeNumber": "AFE-2025-0007",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 76,
+    "txnDate": "2024-12-13",
+    "amount": 338705.91,
+    "description": "See appear weight.",
+    "status": "POSTED",
+    "deckId": 3,
+    "deckCode": "DECK-003",
+    "afeId": 23,
+    "afeNumber": "AFE-2025-0023",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 109,
+    "txnDate": "2024-12-13",
+    "amount": 112427.86,
+    "description": "Impact fly bit claim in many.",
+    "status": "APPROVED",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 30,
+    "afeNumber": "AFE-2025-0030",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 141,
+    "txnDate": "2024-12-01",
+    "amount": 393510.35,
+    "description": "Pull public once state wait board.",
+    "status": "PENDING",
+    "deckId": 19,
+    "deckCode": "DECK-019",
+    "afeId": 27,
+    "afeNumber": "AFE-2025-0027",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 75,
+    "txnDate": "2024-12-01",
+    "amount": 388918.16,
+    "description": "Front they everything week instead strong.",
+    "status": "PENDING",
+    "deckId": 19,
+    "deckCode": "DECK-019",
+    "afeId": 30,
+    "afeNumber": "AFE-2025-0030",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 102,
+    "txnDate": "2024-12-01",
+    "amount": 288165.87,
+    "description": "Reach under skin person.",
+    "status": "PENDING",
+    "deckId": 9,
+    "deckCode": "DECK-009",
+    "afeId": 19,
+    "afeNumber": "AFE-2025-0019",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 8,
+    "txnDate": "2024-11-30",
+    "amount": 81410.78,
+    "description": "Class great prove reduce raise author.",
+    "status": "REJECTED",
+    "deckId": 3,
+    "deckCode": "DECK-003",
+    "afeId": 21,
+    "afeNumber": "AFE-2025-0021",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 1,
+        "ownerName": "Marks-Williams",
+        "allocationPercentage": 53.92,
+        "allocatedAmount": 43899.64
+      },
+      {
+        "ownerId": 9,
+        "ownerName": "Frye, Webb and Ballard",
+        "allocationPercentage": 46.08,
+        "allocatedAmount": 37511.14
+      }
+    ]
+  },
+  {
+    "txnId": 154,
+    "txnDate": "2024-11-26",
+    "amount": 51889.92,
+    "description": "Message board mean war analysis situation.",
+    "status": "PENDING",
+    "deckId": 8,
+    "deckCode": "DECK-008",
+    "afeId": 4,
+    "afeNumber": "AFE-2025-0004",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 127,
+    "txnDate": "2024-11-23",
+    "amount": 455317.42,
+    "description": "Really tough animal someone.",
+    "status": "POSTED",
+    "deckId": 8,
+    "deckCode": "DECK-008",
+    "afeId": 26,
+    "afeNumber": "AFE-2025-0026",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 58,
+    "txnDate": "2024-11-21",
+    "amount": 12310.25,
+    "description": "Put memory soldier where save probably.",
+    "status": "PENDING",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 29,
+    "afeNumber": "AFE-2025-0029",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 136,
+    "txnDate": "2024-11-21",
+    "amount": 58148.63,
+    "description": "Often run bed.",
+    "status": "PENDING",
+    "deckId": 13,
+    "deckCode": "DECK-013",
+    "afeId": 12,
+    "afeNumber": "AFE-2025-0012",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 122,
+    "txnDate": "2024-11-20",
+    "amount": 87617.17,
+    "description": "Moment lead reveal improve.",
+    "status": "POSTED",
+    "deckId": 16,
+    "deckCode": "DECK-016",
+    "afeId": 5,
+    "afeNumber": "AFE-2025-0005",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 186,
+    "txnDate": "2024-11-19",
+    "amount": 451996.77,
+    "description": "Mission city health executive impact full our.",
+    "status": "PENDING",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 10,
+    "afeNumber": "AFE-2025-0010",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 22,
+    "txnDate": "2024-11-18",
+    "amount": 112426.2,
+    "description": "Later easy ask again network open according.",
+    "status": "REJECTED",
+    "deckId": 19,
+    "deckCode": "DECK-019",
+    "afeId": 1,
+    "afeNumber": "AFE-2025-0001",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 2,
+        "ownerName": "Blackwell LLC",
+        "allocationPercentage": 38.18,
+        "allocatedAmount": 42922.92
+      },
+      {
+        "ownerId": 7,
+        "ownerName": "Compton Ltd",
+        "allocationPercentage": 38.03,
+        "allocatedAmount": 42757.31
+      },
+      {
+        "ownerId": 14,
+        "ownerName": "Taylor, Clark and Nguyen",
+        "allocationPercentage": 23.79,
+        "allocatedAmount": 26745.97
+      }
+    ]
+  },
+  {
+    "txnId": 198,
+    "txnDate": "2024-11-18",
+    "amount": 373683.56,
+    "description": "Watch develop later glass.",
+    "status": "REJECTED",
+    "deckId": 8,
+    "deckCode": "DECK-008",
+    "afeId": 22,
+    "afeNumber": "AFE-2025-0022",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 74,
+    "txnDate": "2024-11-11",
+    "amount": 334762.48,
+    "description": "Term consider employee force.",
+    "status": "PENDING",
+    "deckId": 12,
+    "deckCode": "DECK-012",
+    "afeId": 20,
+    "afeNumber": "AFE-2025-0020",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 131,
+    "txnDate": "2024-11-08",
+    "amount": 128559.35,
+    "description": "Lead few yourself table blood.",
+    "status": "POSTED",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 4,
+    "afeNumber": "AFE-2025-0004",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 175,
+    "txnDate": "2024-11-03",
+    "amount": 290206.67,
+    "description": "Boy again foot soon peace.",
+    "status": "APPROVED",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 16,
+    "afeNumber": "AFE-2025-0016",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 25,
+    "txnDate": "2024-10-28",
+    "amount": 95285.92,
+    "description": "Tell approach president position art rock song.",
+    "status": "APPROVED",
+    "deckId": 14,
+    "deckCode": "DECK-014",
+    "afeId": 15,
+    "afeNumber": "AFE-2025-0015",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 2,
+        "ownerName": "Blackwell LLC",
+        "allocationPercentage": 59,
+        "allocatedAmount": 56214.14
+      },
+      {
+        "ownerId": 9,
+        "ownerName": "Frye, Webb and Ballard",
+        "allocationPercentage": 10.38,
+        "allocatedAmount": 9890.16
+      },
+      {
+        "ownerId": 12,
+        "ownerName": "Taylor LLC",
+        "allocationPercentage": 30.63,
+        "allocatedAmount": 29181.62
+      }
+    ]
+  },
+  {
+    "txnId": 69,
+    "txnDate": "2024-10-26",
+    "amount": 362118.27,
+    "description": "My indeed deal information toward once.",
+    "status": "POSTED",
+    "deckId": 13,
+    "deckCode": "DECK-013",
+    "afeId": 19,
+    "afeNumber": "AFE-2025-0019",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 111,
+    "txnDate": "2024-10-23",
+    "amount": 191854.65,
+    "description": "Stay ability thank left approach million performance.",
+    "status": "PENDING",
+    "deckId": 14,
+    "deckCode": "DECK-014",
+    "afeId": 30,
+    "afeNumber": "AFE-2025-0030",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 124,
+    "txnDate": "2024-10-18",
+    "amount": 37023.56,
+    "description": "System system teacher here.",
+    "status": "REJECTED",
+    "deckId": 14,
+    "deckCode": "DECK-014",
+    "afeId": 9,
+    "afeNumber": "AFE-2025-0009",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 62,
+    "txnDate": "2024-10-07",
+    "amount": 213427.7,
+    "description": "Hundred challenge reach throughout team those sing.",
+    "status": "POSTED",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 25,
+    "afeNumber": "AFE-2025-0025",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 132,
+    "txnDate": "2024-10-05",
+    "amount": 70464.43,
+    "description": "Grow fast recognize against stop how account.",
+    "status": "PENDING",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 3,
+    "afeNumber": "AFE-2025-0003",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 119,
+    "txnDate": "2024-10-02",
+    "amount": 315617.39,
+    "description": "Usually thank wonder draw him task improve.",
+    "status": "REJECTED",
+    "deckId": 14,
+    "deckCode": "DECK-014",
+    "afeId": 25,
+    "afeNumber": "AFE-2025-0025",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 168,
+    "txnDate": "2024-09-27",
+    "amount": 39415.68,
+    "description": "Return since nothing be apply.",
+    "status": "REJECTED",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 6,
+    "afeNumber": "AFE-2025-0006",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 37,
+    "txnDate": "2024-09-26",
+    "amount": 142565.2,
+    "description": "Citizen street region particularly would.",
+    "status": "POSTED",
+    "deckId": 20,
+    "deckCode": "DECK-020",
+    "afeId": 21,
+    "afeNumber": "AFE-2025-0021",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 10,
+        "ownerName": "Roberts Group",
+        "allocationPercentage": 100,
+        "allocatedAmount": 142565.2
+      }
+    ]
+  },
+  {
+    "txnId": 164,
+    "txnDate": "2024-09-25",
+    "amount": 87929.83,
+    "description": "Several off southern suddenly.",
+    "status": "POSTED",
+    "deckId": 17,
+    "deckCode": "DECK-017",
+    "afeId": 27,
+    "afeNumber": "AFE-2025-0027",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 84,
+    "txnDate": "2024-09-20",
+    "amount": 120753.89,
+    "description": "Religious itself safe whole establish space Mrs.",
+    "status": "POSTED",
+    "deckId": 16,
+    "deckCode": "DECK-016",
+    "afeId": 23,
+    "afeNumber": "AFE-2025-0023",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 13,
+    "txnDate": "2024-09-20",
+    "amount": 254812.19,
+    "description": "Young catch management sense technology.",
+    "status": "APPROVED",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 6,
+    "afeNumber": "AFE-2025-0006",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 2,
+        "ownerName": "Blackwell LLC",
+        "allocationPercentage": 33.42,
+        "allocatedAmount": 85164.42
+      },
+      {
+        "ownerId": 14,
+        "ownerName": "Taylor, Clark and Nguyen",
+        "allocationPercentage": 29.5,
+        "allocatedAmount": 75175.24
+      },
+      {
+        "ownerId": 15,
+        "ownerName": "Cardenas-Blevins",
+        "allocationPercentage": 37.08,
+        "allocatedAmount": 94472.54
+      }
+    ]
+  },
+  {
+    "txnId": 93,
+    "txnDate": "2024-09-19",
+    "amount": 42681.94,
+    "description": "Few remain call animal.",
+    "status": "PENDING",
+    "deckId": 20,
+    "deckCode": "DECK-020",
+    "afeId": 26,
+    "afeNumber": "AFE-2025-0026",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 5,
+    "txnDate": "2024-09-18",
+    "amount": 423762.43,
+    "description": "Page southern role movie win her.",
+    "status": "REJECTED",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 30,
+    "afeNumber": "AFE-2025-0030",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 1,
+        "ownerName": "Marks-Williams",
+        "allocationPercentage": 26.8,
+        "allocatedAmount": 113583
+      },
+      {
+        "ownerId": 3,
+        "ownerName": "Coleman, Jordan and Carney",
+        "allocationPercentage": 33.69,
+        "allocatedAmount": 142753
+      },
+      {
+        "ownerId": 4,
+        "ownerName": "Palmer-Brady",
+        "allocationPercentage": 39.51,
+        "allocatedAmount": 167426.43
+      }
+    ]
+  },
+  {
+    "txnId": 162,
+    "txnDate": "2024-09-14",
+    "amount": 263514.36,
+    "description": "Test return why outside goal official.",
+    "status": "REJECTED",
+    "deckId": 20,
+    "deckCode": "DECK-020",
+    "afeId": 1,
+    "afeNumber": "AFE-2025-0001",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 83,
+    "txnDate": "2024-09-09",
+    "amount": 398936.4,
+    "description": "Into have media game support state black.",
+    "status": "REJECTED",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 17,
+    "afeNumber": "AFE-2025-0017",
+    "billingCategory": "CAT-110",
+    "owners": []
+  },
+  {
+    "txnId": 170,
+    "txnDate": "2024-09-07",
+    "amount": 118210.8,
+    "description": "Book question or money final determine.",
+    "status": "PENDING",
+    "deckId": 20,
+    "deckCode": "DECK-020",
+    "afeId": 25,
+    "afeNumber": "AFE-2025-0025",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 56,
+    "txnDate": "2024-08-24",
+    "amount": 232547.6,
+    "description": "Recent never court professor here security.",
+    "status": "POSTED",
+    "deckId": 6,
+    "deckCode": "DECK-006",
+    "afeId": 3,
+    "afeNumber": "AFE-2025-0003",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 120,
+    "txnDate": "2024-08-17",
+    "amount": 221894.91,
+    "description": "Relate specific history professional star wonder manager.",
+    "status": "REJECTED",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 2,
+    "afeNumber": "AFE-2025-0002",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 125,
+    "txnDate": "2024-08-16",
+    "amount": 99688.58,
+    "description": "Responsibility service their along attention piece TV young.",
+    "status": "POSTED",
+    "deckId": 8,
+    "deckCode": "DECK-008",
+    "afeId": 19,
+    "afeNumber": "AFE-2025-0019",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 177,
+    "txnDate": "2024-08-11",
+    "amount": 123947.09,
+    "description": "Develop single baby plan most create.",
+    "status": "POSTED",
+    "deckId": 12,
+    "deckCode": "DECK-012",
+    "afeId": 30,
+    "afeNumber": "AFE-2025-0030",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 166,
+    "txnDate": "2024-08-10",
+    "amount": 286742.5,
+    "description": "Go consider century price attorney scientist.",
+    "status": "POSTED",
+    "deckId": 1,
+    "deckCode": "DECK-001",
+    "afeId": 6,
+    "afeNumber": "AFE-2025-0006",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 97,
+    "txnDate": "2024-08-06",
+    "amount": 235009.25,
+    "description": "Yes budget share paper.",
+    "status": "APPROVED",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 22,
+    "afeNumber": "AFE-2025-0022",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 137,
+    "txnDate": "2024-07-30",
+    "amount": 209621.46,
+    "description": "Section compare car much will most.",
+    "status": "PENDING",
+    "deckId": 16,
+    "deckCode": "DECK-016",
+    "afeId": 14,
+    "afeNumber": "AFE-2025-0014",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 128,
+    "txnDate": "2024-07-29",
+    "amount": 318345.28,
+    "description": "Hear certainly most not society color.",
+    "status": "REJECTED",
+    "deckId": 4,
+    "deckCode": "DECK-004",
+    "afeId": 21,
+    "afeNumber": "AFE-2025-0021",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 101,
+    "txnDate": "2024-07-27",
+    "amount": 367293.51,
+    "description": "Discuss religious reflect.",
+    "status": "REJECTED",
+    "deckId": 19,
+    "deckCode": "DECK-019",
+    "afeId": 1,
+    "afeNumber": "AFE-2025-0001",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 105,
+    "txnDate": "2024-07-25",
+    "amount": 126274.19,
+    "description": "Buy read record wall matter management.",
+    "status": "APPROVED",
+    "deckId": 17,
+    "deckCode": "DECK-017",
+    "afeId": 1,
+    "afeNumber": "AFE-2025-0001",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 197,
+    "txnDate": "2024-07-23",
+    "amount": 253713.12,
+    "description": "Several evening town challenge.",
+    "status": "APPROVED",
+    "deckId": 2,
+    "deckCode": "DECK-002",
+    "afeId": 13,
+    "afeNumber": "AFE-2025-0013",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 59,
+    "txnDate": "2024-07-22",
+    "amount": 97298.17,
+    "description": "Professional people behavior weight dog financial southern.",
+    "status": "POSTED",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 23,
+    "afeNumber": "AFE-2025-0023",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 146,
+    "txnDate": "2024-07-18",
+    "amount": 110852.72,
+    "description": "Real describe know.",
+    "status": "APPROVED",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 1,
+    "afeNumber": "AFE-2025-0001",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 108,
+    "txnDate": "2024-07-17",
+    "amount": 60800.9,
+    "description": "Young job sport why.",
+    "status": "PENDING",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 18,
+    "afeNumber": "AFE-2025-0018",
+    "billingCategory": "CAT-114",
+    "owners": []
+  },
+  {
+    "txnId": 4,
+    "txnDate": "2024-07-17",
+    "amount": 170191.23,
+    "description": "Democratic shake bill here.",
+    "status": "PENDING",
+    "deckId": 4,
+    "deckCode": "DECK-004",
+    "afeId": 13,
+    "afeNumber": "AFE-2025-0013",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 1,
+        "ownerName": "Marks-Williams",
+        "allocationPercentage": 29,
+        "allocatedAmount": 49348.01
+      },
+      {
+        "ownerId": 13,
+        "ownerName": "Wells, Coffey and Patton",
+        "allocationPercentage": 51.46,
+        "allocatedAmount": 87577.99
+      },
+      {
+        "ownerId": 15,
+        "ownerName": "Cardenas-Blevins",
+        "allocationPercentage": 19.55,
+        "allocatedAmount": 33265.22
+      }
+    ]
+  },
+  {
+    "txnId": 151,
+    "txnDate": "2024-07-17",
+    "amount": 213439.33,
+    "description": "Would music sometimes body.",
+    "status": "REJECTED",
+    "deckId": 16,
+    "deckCode": "DECK-016",
+    "afeId": 3,
+    "afeNumber": "AFE-2025-0003",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 35,
+    "txnDate": "2024-07-07",
+    "amount": 335877.94,
+    "description": "Capital population lead upon very act.",
+    "status": "REJECTED",
+    "deckId": 1,
+    "deckCode": "DECK-001",
+    "afeId": 20,
+    "afeNumber": "AFE-2025-0020",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 6,
+        "ownerName": "Brown, Daniels and Vance",
+        "allocationPercentage": 32.39,
+        "allocatedAmount": 108803.45
+      },
+      {
+        "ownerId": 10,
+        "ownerName": "Roberts Group",
+        "allocationPercentage": 58.57,
+        "allocatedAmount": 196740.29
+      },
+      {
+        "ownerId": 13,
+        "ownerName": "Wells, Coffey and Patton",
+        "allocationPercentage": 9.03,
+        "allocatedAmount": 30334.2
+      }
+    ]
+  },
+  {
+    "txnId": 30,
+    "txnDate": "2024-07-07",
+    "amount": 132675.01,
+    "description": "Expect recent room situation product main couple.",
+    "status": "POSTED",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 10,
+    "afeNumber": "AFE-2025-0010",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 4,
+        "ownerName": "Palmer-Brady",
+        "allocationPercentage": 21.56,
+        "allocatedAmount": 28604.2
+      },
+      {
+        "ownerId": 5,
+        "ownerName": "Ramirez, Horne and Johnson",
+        "allocationPercentage": 62.12,
+        "allocatedAmount": 82416.75
+      },
+      {
+        "ownerId": 13,
+        "ownerName": "Wells, Coffey and Patton",
+        "allocationPercentage": 16.32,
+        "allocatedAmount": 21654.06
+      }
+    ]
+  },
+  {
+    "txnId": 87,
+    "txnDate": "2024-07-02",
+    "amount": 125776.7,
+    "description": "Evidence other they new might course.",
+    "status": "APPROVED",
+    "deckId": 4,
+    "deckCode": "DECK-004",
+    "afeId": 18,
+    "afeNumber": "AFE-2025-0018",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 172,
+    "txnDate": "2024-06-30",
+    "amount": 432137.01,
+    "description": "Foreign account section compare herself.",
+    "status": "REJECTED",
+    "deckId": 16,
+    "deckCode": "DECK-016",
+    "afeId": 21,
+    "afeNumber": "AFE-2025-0021",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 40,
+    "txnDate": "2024-06-26",
+    "amount": 252753.99,
+    "description": "Begin interest everybody.",
+    "status": "REJECTED",
+    "deckId": 3,
+    "deckCode": "DECK-003",
+    "afeId": 14,
+    "afeNumber": "AFE-2025-0014",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 8,
+        "ownerName": "Huber, Hill and Weber",
+        "allocationPercentage": 35.78,
+        "allocatedAmount": 90422.75
+      },
+      {
+        "ownerId": 13,
+        "ownerName": "Wells, Coffey and Patton",
+        "allocationPercentage": 64.22,
+        "allocatedAmount": 162331.24
+      }
+    ]
+  },
+  {
+    "txnId": 135,
+    "txnDate": "2024-06-26",
+    "amount": 454702.88,
+    "description": "Pick tough position final.",
+    "status": "REJECTED",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 2,
+    "afeNumber": "AFE-2025-0002",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 86,
+    "txnDate": "2024-06-21",
+    "amount": 236682.92,
+    "description": "Now property from management foot maintain great.",
+    "status": "REJECTED",
+    "deckId": 12,
+    "deckCode": "DECK-012",
+    "afeId": 15,
+    "afeNumber": "AFE-2025-0015",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 88,
+    "txnDate": "2024-06-19",
+    "amount": 95851.33,
+    "description": "Major serve real position make society.",
+    "status": "POSTED",
+    "deckId": 4,
+    "deckCode": "DECK-004",
+    "afeId": 7,
+    "afeNumber": "AFE-2025-0007",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 147,
+    "txnDate": "2024-06-15",
+    "amount": 423664.54,
+    "description": "Between rate name within grow huge.",
+    "status": "POSTED",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 29,
+    "afeNumber": "AFE-2025-0029",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 142,
+    "txnDate": "2024-06-13",
+    "amount": 164346.92,
+    "description": "Agent this no trip determine as statement.",
+    "status": "PENDING",
+    "deckId": 9,
+    "deckCode": "DECK-009",
+    "afeId": 5,
+    "afeNumber": "AFE-2025-0005",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 77,
+    "txnDate": "2024-06-05",
+    "amount": 51040.46,
+    "description": "Sit prepare senior wear.",
+    "status": "REJECTED",
+    "deckId": 19,
+    "deckCode": "DECK-019",
+    "afeId": 2,
+    "afeNumber": "AFE-2025-0002",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 63,
+    "txnDate": "2024-06-01",
+    "amount": 382930.26,
+    "description": "Sound receive let newspaper.",
+    "status": "POSTED",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 23,
+    "afeNumber": "AFE-2025-0023",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 31,
+    "txnDate": "2024-05-31",
+    "amount": 289632.23,
+    "description": "Often my security arm.",
+    "status": "APPROVED",
+    "deckId": 2,
+    "deckCode": "DECK-002",
+    "afeId": 16,
+    "afeNumber": "AFE-2025-0016",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 3,
+        "ownerName": "Coleman, Jordan and Carney",
+        "allocationPercentage": 15.67,
+        "allocatedAmount": 45390.27
+      },
+      {
+        "ownerId": 11,
+        "ownerName": "Anderson-Baker",
+        "allocationPercentage": 28.88,
+        "allocatedAmount": 83631.76
+      },
+      {
+        "ownerId": 13,
+        "ownerName": "Wells, Coffey and Patton",
+        "allocationPercentage": 55.45,
+        "allocatedAmount": 160610.2
+      }
+    ]
+  },
+  {
+    "txnId": 163,
+    "txnDate": "2024-05-27",
+    "amount": 472667.51,
+    "description": "Prevent difference board suddenly.",
+    "status": "PENDING",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 1,
+    "afeNumber": "AFE-2025-0001",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 78,
+    "txnDate": "2024-05-17",
+    "amount": 214246.17,
+    "description": "Perform draw list.",
+    "status": "REJECTED",
+    "deckId": 1,
+    "deckCode": "DECK-001",
+    "afeId": 14,
+    "afeNumber": "AFE-2025-0014",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 148,
+    "txnDate": "2024-05-10",
+    "amount": 304187.88,
+    "description": "We station begin deep.",
+    "status": "APPROVED",
+    "deckId": 13,
+    "deckCode": "DECK-013",
+    "afeId": 17,
+    "afeNumber": "AFE-2025-0017",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 184,
+    "txnDate": "2024-05-08",
+    "amount": 298663.5,
+    "description": "Painting may whatever late specific study.",
+    "status": "PENDING",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 14,
+    "afeNumber": "AFE-2025-0014",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 57,
+    "txnDate": "2024-04-27",
+    "amount": 331960.53,
+    "description": "Notice image street fight decision size parent focus.",
+    "status": "REJECTED",
+    "deckId": 10,
+    "deckCode": "DECK-010",
+    "afeId": 26,
+    "afeNumber": "AFE-2025-0026",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 179,
+    "txnDate": "2024-04-27",
+    "amount": 339221.83,
+    "description": "Check service away week physical less nor often.",
+    "status": "REJECTED",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 19,
+    "afeNumber": "AFE-2025-0019",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 29,
+    "txnDate": "2024-04-21",
+    "amount": 203266.39,
+    "description": "Magazine degree husband around her world.",
+    "status": "POSTED",
+    "deckId": 2,
+    "deckCode": "DECK-002",
+    "afeId": 13,
+    "afeNumber": "AFE-2025-0013",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 3,
+        "ownerName": "Coleman, Jordan and Carney",
+        "allocationPercentage": 58.22,
+        "allocatedAmount": 118344.06
+      },
+      {
+        "ownerId": 11,
+        "ownerName": "Anderson-Baker",
+        "allocationPercentage": 41.78,
+        "allocatedAmount": 84922.33
+      }
+    ]
+  },
+  {
+    "txnId": 169,
+    "txnDate": "2024-04-14",
+    "amount": 316649.01,
+    "description": "Anyone bank kitchen interest parent increase democratic mention.",
+    "status": "PENDING",
+    "deckId": 12,
+    "deckCode": "DECK-012",
+    "afeId": 27,
+    "afeNumber": "AFE-2025-0027",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 100,
+    "txnDate": "2024-04-14",
+    "amount": 349896.87,
+    "description": "Community avoid able late order.",
+    "status": "REJECTED",
+    "deckId": 15,
+    "deckCode": "DECK-015",
+    "afeId": 20,
+    "afeNumber": "AFE-2025-0020",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 14,
+    "txnDate": "2024-04-11",
+    "amount": 298244.87,
+    "description": "Civil quite others his other life edge network.",
+    "status": "POSTED",
+    "deckId": 17,
+    "deckCode": "DECK-017",
+    "afeId": 18,
+    "afeNumber": "AFE-2025-0018",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 7,
+        "ownerName": "Compton Ltd",
+        "allocationPercentage": 100,
+        "allocatedAmount": 298244.87
+      }
+    ]
+  },
+  {
+    "txnId": 60,
+    "txnDate": "2024-04-07",
+    "amount": 389232.36,
+    "description": "Animal worker particularly.",
+    "status": "PENDING",
+    "deckId": 2,
+    "deckCode": "DECK-002",
+    "afeId": 8,
+    "afeNumber": "AFE-2025-0008",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 68,
+    "txnDate": "2024-03-31",
+    "amount": 448915.89,
+    "description": "Discuss really relationship ask.",
+    "status": "POSTED",
+    "deckId": 16,
+    "deckCode": "DECK-016",
+    "afeId": 13,
+    "afeNumber": "AFE-2025-0013",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 190,
+    "txnDate": "2024-03-22",
+    "amount": 442326.42,
+    "description": "Behavior provide meet adult final week game.",
+    "status": "APPROVED",
+    "deckId": 17,
+    "deckCode": "DECK-017",
+    "afeId": 8,
+    "afeNumber": "AFE-2025-0008",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 91,
+    "txnDate": "2024-03-17",
+    "amount": 234751.53,
+    "description": "Firm sea week real course.",
+    "status": "POSTED",
+    "deckId": 9,
+    "deckCode": "DECK-009",
+    "afeId": 16,
+    "afeNumber": "AFE-2025-0016",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 114,
+    "txnDate": "2024-03-14",
+    "amount": 285941.64,
+    "description": "Marriage respond meeting event.",
+    "status": "PENDING",
+    "deckId": 2,
+    "deckCode": "DECK-002",
+    "afeId": 24,
+    "afeNumber": "AFE-2025-0024",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 144,
+    "txnDate": "2024-03-13",
+    "amount": 294467.58,
+    "description": "Doctor Mr home he.",
+    "status": "APPROVED",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 14,
+    "afeNumber": "AFE-2025-0014",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 158,
+    "txnDate": "2024-03-12",
+    "amount": 370510.43,
+    "description": "Result Democrat later direction fund law indeed.",
+    "status": "APPROVED",
+    "deckId": 13,
+    "deckCode": "DECK-013",
+    "afeId": 15,
+    "afeNumber": "AFE-2025-0015",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 79,
+    "txnDate": "2024-03-12",
+    "amount": 52858.88,
+    "description": "Way let eight hard paper white responsibility.",
+    "status": "REJECTED",
+    "deckId": 5,
+    "deckCode": "DECK-005",
+    "afeId": 6,
+    "afeNumber": "AFE-2025-0006",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 19,
+    "txnDate": "2024-03-10",
+    "amount": 473480.03,
+    "description": "These story film around there water.",
+    "status": "APPROVED",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 5,
+    "afeNumber": "AFE-2025-0005",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 8,
+        "ownerName": "Huber, Hill and Weber",
+        "allocationPercentage": 35.84,
+        "allocatedAmount": 169696.78
+      },
+      {
+        "ownerId": 10,
+        "ownerName": "Roberts Group",
+        "allocationPercentage": 46.23,
+        "allocatedAmount": 218871.43
+      },
+      {
+        "ownerId": 15,
+        "ownerName": "Cardenas-Blevins",
+        "allocationPercentage": 17.93,
+        "allocatedAmount": 84911.82
+      }
+    ]
+  },
+  {
+    "txnId": 16,
+    "txnDate": "2024-03-10",
+    "amount": 226916.48,
+    "description": "Itself law west then enjoy.",
+    "status": "REJECTED",
+    "deckId": 17,
+    "deckCode": "DECK-017",
+    "afeId": 28,
+    "afeNumber": "AFE-2025-0028",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 11,
+        "ownerName": "Anderson-Baker",
+        "allocationPercentage": 29.74,
+        "allocatedAmount": 67481.94
+      },
+      {
+        "ownerId": 13,
+        "ownerName": "Wells, Coffey and Patton",
+        "allocationPercentage": 70.26,
+        "allocatedAmount": 159434.54
+      }
+    ]
+  },
+  {
+    "txnId": 26,
+    "txnDate": "2024-03-08",
+    "amount": 336714.94,
+    "description": "Court movie cell contain leg.",
+    "status": "APPROVED",
+    "deckId": 4,
+    "deckCode": "DECK-004",
+    "afeId": 7,
+    "afeNumber": "AFE-2025-0007",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 6,
+        "ownerName": "Brown, Daniels and Vance",
+        "allocationPercentage": 100,
+        "allocatedAmount": 336714.94
+      }
+    ]
+  },
+  {
+    "txnId": 39,
+    "txnDate": "2024-03-06",
+    "amount": 371234.1,
+    "description": "Choice example decision garden reach table measure.",
+    "status": "PENDING",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 22,
+    "afeNumber": "AFE-2025-0022",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 7,
+        "ownerName": "Compton Ltd",
+        "allocationPercentage": 100,
+        "allocatedAmount": 371234.1
+      }
+    ]
+  },
+  {
+    "txnId": 45,
+    "txnDate": "2024-03-03",
+    "amount": 462889.33,
+    "description": "Sister this image per choice upon.",
+    "status": "PENDING",
+    "deckId": 14,
+    "deckCode": "DECK-014",
+    "afeId": 6,
+    "afeNumber": "AFE-2025-0006",
+    "billingCategory": "CAT-125",
+    "owners": [
+      {
+        "ownerId": 3,
+        "ownerName": "Coleman, Jordan and Carney",
+        "allocationPercentage": 33.82,
+        "allocatedAmount": 156542.99
+      },
+      {
+        "ownerId": 5,
+        "ownerName": "Ramirez, Horne and Johnson",
+        "allocationPercentage": 37.99,
+        "allocatedAmount": 175863.79
+      },
+      {
+        "ownerId": 6,
+        "ownerName": "Brown, Daniels and Vance",
+        "allocationPercentage": 28.19,
+        "allocatedAmount": 130482.54
+      }
+    ]
+  },
+  {
+    "txnId": 159,
+    "txnDate": "2024-02-26",
+    "amount": 185089.54,
+    "description": "Interview professor hear check type attack.",
+    "status": "REJECTED",
+    "deckId": 2,
+    "deckCode": "DECK-002",
+    "afeId": 6,
+    "afeNumber": "AFE-2025-0006",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 89,
+    "txnDate": "2024-02-24",
+    "amount": 180504.45,
+    "description": "Develop reality fill ok list.",
+    "status": "REJECTED",
+    "deckId": 9,
+    "deckCode": "DECK-009",
+    "afeId": 2,
+    "afeNumber": "AFE-2025-0002",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 183,
+    "txnDate": "2024-02-22",
+    "amount": 147966.47,
+    "description": "Order his oil west school American training occur.",
+    "status": "APPROVED",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 25,
+    "afeNumber": "AFE-2025-0025",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 20,
+    "txnDate": "2024-02-19",
+    "amount": 473429.65,
+    "description": "Staff within mouth call process water close.",
+    "status": "PENDING",
+    "deckId": 7,
+    "deckCode": "DECK-007",
+    "afeId": 25,
+    "afeNumber": "AFE-2025-0025",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 9,
+        "ownerName": "Frye, Webb and Ballard",
+        "allocationPercentage": 19.92,
+        "allocatedAmount": 94328.35
+      },
+      {
+        "ownerId": 15,
+        "ownerName": "Cardenas-Blevins",
+        "allocationPercentage": 80.08,
+        "allocatedAmount": 379101.3
+      }
+    ]
+  },
+  {
+    "txnId": 34,
+    "txnDate": "2024-02-16",
+    "amount": 282656.94,
+    "description": "Price north first end prove fire.",
+    "status": "REJECTED",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 9,
+    "afeNumber": "AFE-2025-0009",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 7,
+        "ownerName": "Compton Ltd",
+        "allocationPercentage": 59.29,
+        "allocatedAmount": 167587.93
+      },
+      {
+        "ownerId": 9,
+        "ownerName": "Frye, Webb and Ballard",
+        "allocationPercentage": 20.94,
+        "allocatedAmount": 59178.23
+      },
+      {
+        "ownerId": 15,
+        "ownerName": "Cardenas-Blevins",
+        "allocationPercentage": 19.77,
+        "allocatedAmount": 55890.77
+      }
+    ]
+  },
+  {
+    "txnId": 106,
+    "txnDate": "2024-02-15",
+    "amount": 231041.97,
+    "description": "Always it focus economy before while structure offer.",
+    "status": "APPROVED",
+    "deckId": 20,
+    "deckCode": "DECK-020",
+    "afeId": 16,
+    "afeNumber": "AFE-2025-0016",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 129,
+    "txnDate": "2024-02-13",
+    "amount": 394326.38,
+    "description": "That people drive tree central leave effect effort.",
+    "status": "APPROVED",
+    "deckId": 3,
+    "deckCode": "DECK-003",
+    "afeId": 11,
+    "afeNumber": "AFE-2025-0011",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 104,
+    "txnDate": "2024-02-08",
+    "amount": 164968.85,
+    "description": "Coach film see notice.",
+    "status": "POSTED",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 15,
+    "afeNumber": "AFE-2025-0015",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 50,
+    "txnDate": "2024-02-06",
+    "amount": 89366.05,
+    "description": "Go meeting quickly such former.",
+    "status": "REJECTED",
+    "deckId": 12,
+    "deckCode": "DECK-012",
+    "afeId": 26,
+    "afeNumber": "AFE-2025-0026",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 3,
+        "ownerName": "Coleman, Jordan and Carney",
+        "allocationPercentage": 28.95,
+        "allocatedAmount": 25875.08
+      },
+      {
+        "ownerId": 11,
+        "ownerName": "Anderson-Baker",
+        "allocationPercentage": 45.79,
+        "allocatedAmount": 40919.63
+      },
+      {
+        "ownerId": 13,
+        "ownerName": "Wells, Coffey and Patton",
+        "allocationPercentage": 25.26,
+        "allocatedAmount": 22571.34
+      }
+    ]
+  },
+  {
+    "txnId": 11,
+    "txnDate": "2024-02-04",
+    "amount": 438196.18,
+    "description": "Tree note responsibility defense material.",
+    "status": "REJECTED",
+    "deckId": 13,
+    "deckCode": "DECK-013",
+    "afeId": 15,
+    "afeNumber": "AFE-2025-0015",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 2,
+        "ownerName": "Blackwell LLC",
+        "allocationPercentage": 64.68,
+        "allocatedAmount": 283425.64
+      },
+      {
+        "ownerId": 6,
+        "ownerName": "Brown, Daniels and Vance",
+        "allocationPercentage": 35.32,
+        "allocatedAmount": 154770.54
+      }
+    ]
+  },
+  {
+    "txnId": 94,
+    "txnDate": "2024-01-26",
+    "amount": 387869.2,
+    "description": "Factor want point sell bill activity expect.",
+    "status": "POSTED",
+    "deckId": 10,
+    "deckCode": "DECK-010",
+    "afeId": 19,
+    "afeNumber": "AFE-2025-0019",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 7,
+    "txnDate": "2024-01-19",
+    "amount": 492612.24,
+    "description": "Significant world talk term herself.",
+    "status": "PENDING",
+    "deckId": 9,
+    "deckCode": "DECK-009",
+    "afeId": 21,
+    "afeNumber": "AFE-2025-0021",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 1,
+        "ownerName": "Marks-Williams",
+        "allocationPercentage": 61.68,
+        "allocatedAmount": 303861.91
+      },
+      {
+        "ownerId": 15,
+        "ownerName": "Cardenas-Blevins",
+        "allocationPercentage": 38.32,
+        "allocatedAmount": 188750.33
+      }
+    ]
+  },
+  {
+    "txnId": 174,
+    "txnDate": "2024-01-16",
+    "amount": 415865.15,
+    "description": "Affect TV television office of remember.",
+    "status": "APPROVED",
+    "deckId": 20,
+    "deckCode": "DECK-020",
+    "afeId": 17,
+    "afeNumber": "AFE-2025-0017",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 52,
+    "txnDate": "2024-01-13",
+    "amount": 260008.18,
+    "description": "Others generation skill job.",
+    "status": "PENDING",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 11,
+    "afeNumber": "AFE-2025-0011",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 182,
+    "txnDate": "2024-01-12",
+    "amount": 154502.15,
+    "description": "Hard expert popular within.",
+    "status": "PENDING",
+    "deckId": 7,
+    "deckCode": "DECK-007",
+    "afeId": 5,
+    "afeNumber": "AFE-2025-0005",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 121,
+    "txnDate": "2024-01-12",
+    "amount": 187483.06,
+    "description": "Maybe opportunity thank them.",
+    "status": "PENDING",
+    "deckId": 19,
+    "deckCode": "DECK-019",
+    "afeId": 26,
+    "afeNumber": "AFE-2025-0026",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 167,
+    "txnDate": "2024-01-07",
+    "amount": 230102.44,
+    "description": "Second Democrat information game.",
+    "status": "REJECTED",
+    "deckId": 8,
+    "deckCode": "DECK-008",
+    "afeId": 19,
+    "afeNumber": "AFE-2025-0019",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 51,
+    "txnDate": "2024-01-05",
+    "amount": 303143.81,
+    "description": "Theory end oil worker.",
+    "status": "APPROVED",
+    "deckId": 9,
+    "deckCode": "DECK-009",
+    "afeId": 23,
+    "afeNumber": "AFE-2025-0023",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 199,
+    "txnDate": "2024-01-04",
+    "amount": 385773.54,
+    "description": "Apply maybe dog yes heart agreement.",
+    "status": "REJECTED",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 27,
+    "afeNumber": "AFE-2025-0027",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 107,
+    "txnDate": "2023-12-30",
+    "amount": 380019.27,
+    "description": "Office several compare million kind.",
+    "status": "PENDING",
+    "deckId": 10,
+    "deckCode": "DECK-010",
+    "afeId": 29,
+    "afeNumber": "AFE-2025-0029",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 15,
+    "txnDate": "2023-12-23",
+    "amount": 340173.68,
+    "description": "Race Mr environment political.",
+    "status": "APPROVED",
+    "deckId": 11,
+    "deckCode": "DECK-011",
+    "afeId": 10,
+    "afeNumber": "AFE-2025-0010",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 1,
+        "ownerName": "Marks-Williams",
+        "allocationPercentage": 28.33,
+        "allocatedAmount": 96367.02
+      },
+      {
+        "ownerId": 8,
+        "ownerName": "Huber, Hill and Weber",
+        "allocationPercentage": 13.73,
+        "allocatedAmount": 46707.51
+      },
+      {
+        "ownerId": 11,
+        "ownerName": "Anderson-Baker",
+        "allocationPercentage": 57.94,
+        "allocatedAmount": 197099.15
+      }
+    ]
+  },
+  {
+    "txnId": 42,
+    "txnDate": "2023-12-22",
+    "amount": 280497.34,
+    "description": "Away third tough nation.",
+    "status": "APPROVED",
+    "deckId": 18,
+    "deckCode": "DECK-018",
+    "afeId": 27,
+    "afeNumber": "AFE-2025-0027",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 4,
+        "ownerName": "Palmer-Brady",
+        "allocationPercentage": 25.01,
+        "allocatedAmount": 70164.92
+      },
+      {
+        "ownerId": 8,
+        "ownerName": "Huber, Hill and Weber",
+        "allocationPercentage": 61.02,
+        "allocatedAmount": 171162.2
+      },
+      {
+        "ownerId": 10,
+        "ownerName": "Roberts Group",
+        "allocationPercentage": 13.96,
+        "allocatedAmount": 39170.22
+      }
+    ]
+  },
+  {
+    "txnId": 130,
+    "txnDate": "2023-12-21",
+    "amount": 87902.47,
+    "description": "Top quality citizen kid generation onto police.",
+    "status": "PENDING",
+    "deckId": 17,
+    "deckCode": "DECK-017",
+    "afeId": 30,
+    "afeNumber": "AFE-2025-0030",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 71,
+    "txnDate": "2023-12-19",
+    "amount": 105908.98,
+    "description": "Fear hope through structure Mrs same.",
+    "status": "REJECTED",
+    "deckId": 9,
+    "deckCode": "DECK-009",
+    "afeId": 27,
+    "afeNumber": "AFE-2025-0027",
+    "billingCategory": null,
+    "owners": []
+  },
+  {
+    "txnId": 41,
+    "txnDate": "2023-12-17",
+    "amount": 22138.97,
+    "description": "Side PM energy scientist necessary into.",
+    "status": "REJECTED",
+    "deckId": 6,
+    "deckCode": "DECK-006",
+    "afeId": 15,
+    "afeNumber": "AFE-2025-0015",
+    "billingCategory": null,
+    "owners": [
+      {
+        "ownerId": 12,
+        "ownerName": "Taylor LLC",
+        "allocationPercentage": 100,
+        "allocatedAmount": 22138.97
+      }
+    ]
+  },
+  {
+    "txnId": 54,
+    "txnDate": "2023-12-15",
+    "amount": 63731.17,
+    "description": "Understand Mrs rest score provide hair attorney.",
+    "status": "POSTED",
+    "deckId": 6,
+    "deckCode": "DECK-006",
+    "afeId": 19,
+    "afeNumber": "AFE-2025-0019",
+    "billingCategory": null,
+    "owners": []
+  }
+]

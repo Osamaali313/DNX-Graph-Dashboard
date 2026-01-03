@@ -1,0 +1,1604 @@
+{
+  "transactions": [
+    {
+      "txnId": 200,
+      "txnDate": "2025-12-06",
+      "amount": 415208.79,
+      "deckCode": "DECK-006",
+      "afeNumber": "AFE-2025-0005",
+      "billingCategory": null
+    },
+    {
+      "txnId": 10,
+      "txnDate": "2025-12-02",
+      "amount": 114601.13,
+      "deckCode": "DECK-009",
+      "afeNumber": "AFE-2025-0007",
+      "billingCategory": null
+    },
+    {
+      "txnId": 49,
+      "txnDate": "2025-11-27",
+      "amount": 483447.86,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0001",
+      "billingCategory": null
+    },
+    {
+      "txnId": 64,
+      "txnDate": "2025-11-26",
+      "amount": 135930.38,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0008",
+      "billingCategory": null
+    },
+    {
+      "txnId": 138,
+      "txnDate": "2025-11-23",
+      "amount": 345171.3,
+      "deckCode": "DECK-012",
+      "afeNumber": "AFE-2025-0022",
+      "billingCategory": null
+    },
+    {
+      "txnId": 143,
+      "txnDate": "2025-11-20",
+      "amount": 125402.03,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0012",
+      "billingCategory": "CAT-115"
+    },
+    {
+      "txnId": 134,
+      "txnDate": "2025-11-14",
+      "amount": 54262.22,
+      "deckCode": "DECK-020",
+      "afeNumber": "AFE-2025-0021",
+      "billingCategory": null
+    },
+    {
+      "txnId": 12,
+      "txnDate": "2025-10-31",
+      "amount": 69901.2,
+      "deckCode": "DECK-019",
+      "afeNumber": "AFE-2025-0012",
+      "billingCategory": null
+    },
+    {
+      "txnId": 27,
+      "txnDate": "2025-10-23",
+      "amount": 224361.91,
+      "deckCode": "DECK-008",
+      "afeNumber": "AFE-2025-0030",
+      "billingCategory": null
+    },
+    {
+      "txnId": 188,
+      "txnDate": "2025-10-22",
+      "amount": 320625.4,
+      "deckCode": "DECK-017",
+      "afeNumber": "AFE-2025-0004",
+      "billingCategory": null
+    },
+    {
+      "txnId": 155,
+      "txnDate": "2025-10-18",
+      "amount": 183843.77,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0027",
+      "billingCategory": null
+    },
+    {
+      "txnId": 152,
+      "txnDate": "2025-10-17",
+      "amount": 46705.73,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0002",
+      "billingCategory": null
+    },
+    {
+      "txnId": 133,
+      "txnDate": "2025-10-16",
+      "amount": 7057.94,
+      "deckCode": "DECK-019",
+      "afeNumber": "AFE-2025-0027",
+      "billingCategory": null
+    },
+    {
+      "txnId": 46,
+      "txnDate": "2025-10-16",
+      "amount": 391215.01,
+      "deckCode": "DECK-009",
+      "afeNumber": "AFE-2025-0026",
+      "billingCategory": null
+    },
+    {
+      "txnId": 116,
+      "txnDate": "2025-10-15",
+      "amount": 437107.77,
+      "deckCode": "DECK-001",
+      "afeNumber": "AFE-2025-0005",
+      "billingCategory": null
+    },
+    {
+      "txnId": 44,
+      "txnDate": "2025-10-13",
+      "amount": 105117.26,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0014",
+      "billingCategory": null
+    },
+    {
+      "txnId": 73,
+      "txnDate": "2025-09-27",
+      "amount": 377141.18,
+      "deckCode": "DECK-020",
+      "afeNumber": "AFE-2025-0008",
+      "billingCategory": null
+    },
+    {
+      "txnId": 115,
+      "txnDate": "2025-09-23",
+      "amount": 193100.77,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0019",
+      "billingCategory": null
+    },
+    {
+      "txnId": 43,
+      "txnDate": "2025-09-22",
+      "amount": 276307.3,
+      "deckCode": "DECK-012",
+      "afeNumber": "AFE-2025-0028",
+      "billingCategory": null
+    },
+    {
+      "txnId": 176,
+      "txnDate": "2025-09-20",
+      "amount": 478865.41,
+      "deckCode": "DECK-003",
+      "afeNumber": "AFE-2025-0021",
+      "billingCategory": null
+    },
+    {
+      "txnId": 160,
+      "txnDate": "2025-09-20",
+      "amount": 24976.27,
+      "deckCode": "DECK-016",
+      "afeNumber": "AFE-2025-0015",
+      "billingCategory": null
+    },
+    {
+      "txnId": 196,
+      "txnDate": "2025-08-28",
+      "amount": 176472.74,
+      "deckCode": "DECK-017",
+      "afeNumber": "AFE-2025-0003",
+      "billingCategory": null
+    },
+    {
+      "txnId": 72,
+      "txnDate": "2025-08-26",
+      "amount": 417471.97,
+      "deckCode": "DECK-012",
+      "afeNumber": "AFE-2025-0021",
+      "billingCategory": null
+    },
+    {
+      "txnId": 98,
+      "txnDate": "2025-08-19",
+      "amount": 393935.23,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0027",
+      "billingCategory": null
+    },
+    {
+      "txnId": 187,
+      "txnDate": "2025-08-18",
+      "amount": 251503.06,
+      "deckCode": "DECK-020",
+      "afeNumber": "AFE-2025-0028",
+      "billingCategory": null
+    },
+    {
+      "txnId": 80,
+      "txnDate": "2025-08-09",
+      "amount": 482740.32,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0027",
+      "billingCategory": null
+    },
+    {
+      "txnId": 178,
+      "txnDate": "2025-08-08",
+      "amount": 204443.82,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0011",
+      "billingCategory": null
+    },
+    {
+      "txnId": 82,
+      "txnDate": "2025-08-05",
+      "amount": 284967.84,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0016",
+      "billingCategory": null
+    },
+    {
+      "txnId": 193,
+      "txnDate": "2025-08-04",
+      "amount": 9600.04,
+      "deckCode": "DECK-004",
+      "afeNumber": "AFE-2025-0010",
+      "billingCategory": null
+    },
+    {
+      "txnId": 61,
+      "txnDate": "2025-08-02",
+      "amount": 228285.27,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0027",
+      "billingCategory": null
+    },
+    {
+      "txnId": 165,
+      "txnDate": "2025-08-01",
+      "amount": 36130.54,
+      "deckCode": "DECK-003",
+      "afeNumber": "AFE-2025-0011",
+      "billingCategory": null
+    },
+    {
+      "txnId": 191,
+      "txnDate": "2025-07-31",
+      "amount": 187518.85,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0005",
+      "billingCategory": null
+    },
+    {
+      "txnId": 194,
+      "txnDate": "2025-07-18",
+      "amount": 61011.99,
+      "deckCode": "DECK-003",
+      "afeNumber": "AFE-2025-0027",
+      "billingCategory": null
+    },
+    {
+      "txnId": 126,
+      "txnDate": "2025-07-16",
+      "amount": 148006.61,
+      "deckCode": "DECK-009",
+      "afeNumber": "AFE-2025-0019",
+      "billingCategory": "CAT-108"
+    },
+    {
+      "txnId": 139,
+      "txnDate": "2025-07-16",
+      "amount": 450857.94,
+      "deckCode": "DECK-007",
+      "afeNumber": "AFE-2025-0028",
+      "billingCategory": null
+    },
+    {
+      "txnId": 145,
+      "txnDate": "2025-07-13",
+      "amount": 372858.07,
+      "deckCode": "DECK-017",
+      "afeNumber": "AFE-2025-0004",
+      "billingCategory": null
+    },
+    {
+      "txnId": 192,
+      "txnDate": "2025-07-10",
+      "amount": 143511.01,
+      "deckCode": "DECK-016",
+      "afeNumber": "AFE-2025-0020",
+      "billingCategory": null
+    },
+    {
+      "txnId": 92,
+      "txnDate": "2025-07-10",
+      "amount": 200413.65,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0026",
+      "billingCategory": null
+    },
+    {
+      "txnId": 47,
+      "txnDate": "2025-07-08",
+      "amount": 191332.61,
+      "deckCode": "DECK-007",
+      "afeNumber": "AFE-2025-0030",
+      "billingCategory": null
+    },
+    {
+      "txnId": 24,
+      "txnDate": "2025-06-28",
+      "amount": 107196.98,
+      "deckCode": "DECK-008",
+      "afeNumber": "AFE-2025-0016",
+      "billingCategory": null
+    },
+    {
+      "txnId": 185,
+      "txnDate": "2025-06-21",
+      "amount": 484797.34,
+      "deckCode": "DECK-008",
+      "afeNumber": "AFE-2025-0008",
+      "billingCategory": null
+    },
+    {
+      "txnId": 156,
+      "txnDate": "2025-06-19",
+      "amount": 337520.86,
+      "deckCode": "DECK-001",
+      "afeNumber": "AFE-2025-0009",
+      "billingCategory": null
+    },
+    {
+      "txnId": 23,
+      "txnDate": "2025-06-16",
+      "amount": 114548,
+      "deckCode": "DECK-017",
+      "afeNumber": "AFE-2025-0009",
+      "billingCategory": null
+    },
+    {
+      "txnId": 173,
+      "txnDate": "2025-06-13",
+      "amount": 295750.74,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0002",
+      "billingCategory": null
+    },
+    {
+      "txnId": 48,
+      "txnDate": "2025-06-11",
+      "amount": 152664.91,
+      "deckCode": "DECK-013",
+      "afeNumber": "AFE-2025-0009",
+      "billingCategory": null
+    },
+    {
+      "txnId": 70,
+      "txnDate": "2025-06-06",
+      "amount": 42065.34,
+      "deckCode": "DECK-006",
+      "afeNumber": "AFE-2025-0009",
+      "billingCategory": null
+    },
+    {
+      "txnId": 180,
+      "txnDate": "2025-05-26",
+      "amount": 458381.55,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0023",
+      "billingCategory": null
+    },
+    {
+      "txnId": 81,
+      "txnDate": "2025-05-23",
+      "amount": 134270.93,
+      "deckCode": "DECK-009",
+      "afeNumber": "AFE-2025-0008",
+      "billingCategory": null
+    },
+    {
+      "txnId": 2,
+      "txnDate": "2025-05-23",
+      "amount": 43560.72,
+      "deckCode": "DECK-007",
+      "afeNumber": "AFE-2025-0017",
+      "billingCategory": null
+    },
+    {
+      "txnId": 33,
+      "txnDate": "2025-05-22",
+      "amount": 201947.4,
+      "deckCode": "DECK-020",
+      "afeNumber": "AFE-2025-0014",
+      "billingCategory": null
+    },
+    {
+      "txnId": 140,
+      "txnDate": "2025-05-21",
+      "amount": 45927.54,
+      "deckCode": "DECK-002",
+      "afeNumber": "AFE-2025-0011",
+      "billingCategory": null
+    },
+    {
+      "txnId": 55,
+      "txnDate": "2025-05-13",
+      "amount": 274013.81,
+      "deckCode": "DECK-014",
+      "afeNumber": "AFE-2025-0019",
+      "billingCategory": null
+    },
+    {
+      "txnId": 110,
+      "txnDate": "2025-05-12",
+      "amount": 254485.12,
+      "deckCode": "DECK-016",
+      "afeNumber": "AFE-2025-0015",
+      "billingCategory": null
+    },
+    {
+      "txnId": 103,
+      "txnDate": "2025-05-11",
+      "amount": 484530.71,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0004",
+      "billingCategory": null
+    },
+    {
+      "txnId": 189,
+      "txnDate": "2025-05-07",
+      "amount": 381582.1,
+      "deckCode": "DECK-014",
+      "afeNumber": "AFE-2025-0030",
+      "billingCategory": null
+    },
+    {
+      "txnId": 123,
+      "txnDate": "2025-05-06",
+      "amount": 318988.53,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0022",
+      "billingCategory": null
+    },
+    {
+      "txnId": 38,
+      "txnDate": "2025-05-05",
+      "amount": 333964.82,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0004",
+      "billingCategory": null
+    },
+    {
+      "txnId": 3,
+      "txnDate": "2025-05-02",
+      "amount": 280666.41,
+      "deckCode": "DECK-001",
+      "afeNumber": "AFE-2025-0026",
+      "billingCategory": null
+    },
+    {
+      "txnId": 149,
+      "txnDate": "2025-04-24",
+      "amount": 252824.98,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0028",
+      "billingCategory": null
+    },
+    {
+      "txnId": 1,
+      "txnDate": "2025-04-24",
+      "amount": 12602.88,
+      "deckCode": "DECK-004",
+      "afeNumber": "AFE-2025-0024",
+      "billingCategory": null
+    },
+    {
+      "txnId": 9,
+      "txnDate": "2025-04-20",
+      "amount": 364590.49,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0022",
+      "billingCategory": null
+    },
+    {
+      "txnId": 181,
+      "txnDate": "2025-04-18",
+      "amount": 279505.14,
+      "deckCode": "DECK-014",
+      "afeNumber": "AFE-2025-0012",
+      "billingCategory": null
+    },
+    {
+      "txnId": 113,
+      "txnDate": "2025-04-17",
+      "amount": 223329.04,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0028",
+      "billingCategory": null
+    },
+    {
+      "txnId": 36,
+      "txnDate": "2025-04-10",
+      "amount": 36723.03,
+      "deckCode": "DECK-012",
+      "afeNumber": "AFE-2025-0029",
+      "billingCategory": null
+    },
+    {
+      "txnId": 99,
+      "txnDate": "2025-04-01",
+      "amount": 29913.06,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0015",
+      "billingCategory": null
+    },
+    {
+      "txnId": 171,
+      "txnDate": "2025-03-24",
+      "amount": 88655.35,
+      "deckCode": "DECK-019",
+      "afeNumber": "AFE-2025-0021",
+      "billingCategory": null
+    },
+    {
+      "txnId": 65,
+      "txnDate": "2025-03-21",
+      "amount": 353238.93,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0014",
+      "billingCategory": null
+    },
+    {
+      "txnId": 153,
+      "txnDate": "2025-03-16",
+      "amount": 280885.52,
+      "deckCode": "DECK-002",
+      "afeNumber": "AFE-2025-0020",
+      "billingCategory": null
+    },
+    {
+      "txnId": 150,
+      "txnDate": "2025-03-14",
+      "amount": 225832.3,
+      "deckCode": "DECK-013",
+      "afeNumber": "AFE-2025-0024",
+      "billingCategory": null
+    },
+    {
+      "txnId": 32,
+      "txnDate": "2025-03-12",
+      "amount": 78800.62,
+      "deckCode": "DECK-020",
+      "afeNumber": "AFE-2025-0022",
+      "billingCategory": null
+    },
+    {
+      "txnId": 195,
+      "txnDate": "2025-03-01",
+      "amount": 298409.85,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0014",
+      "billingCategory": null
+    },
+    {
+      "txnId": 161,
+      "txnDate": "2025-02-18",
+      "amount": 107862.93,
+      "deckCode": "DECK-010",
+      "afeNumber": "AFE-2025-0022",
+      "billingCategory": null
+    },
+    {
+      "txnId": 6,
+      "txnDate": "2025-02-15",
+      "amount": 276065.11,
+      "deckCode": "DECK-002",
+      "afeNumber": "AFE-2025-0008",
+      "billingCategory": null
+    },
+    {
+      "txnId": 157,
+      "txnDate": "2025-02-12",
+      "amount": 460776.61,
+      "deckCode": "DECK-019",
+      "afeNumber": "AFE-2025-0013",
+      "billingCategory": null
+    },
+    {
+      "txnId": 66,
+      "txnDate": "2025-02-12",
+      "amount": 416462.3,
+      "deckCode": "DECK-019",
+      "afeNumber": "AFE-2025-0016",
+      "billingCategory": null
+    },
+    {
+      "txnId": 28,
+      "txnDate": "2025-02-06",
+      "amount": 404030.32,
+      "deckCode": "DECK-003",
+      "afeNumber": "AFE-2025-0028",
+      "billingCategory": null
+    },
+    {
+      "txnId": 90,
+      "txnDate": "2025-01-30",
+      "amount": 348738.95,
+      "deckCode": "DECK-004",
+      "afeNumber": "AFE-2025-0001",
+      "billingCategory": null
+    },
+    {
+      "txnId": 21,
+      "txnDate": "2025-01-27",
+      "amount": 356503.19,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0015",
+      "billingCategory": null
+    },
+    {
+      "txnId": 67,
+      "txnDate": "2025-01-22",
+      "amount": 149376.46,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0024",
+      "billingCategory": null
+    },
+    {
+      "txnId": 53,
+      "txnDate": "2025-01-14",
+      "amount": 359905.16,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0023",
+      "billingCategory": null
+    },
+    {
+      "txnId": 117,
+      "txnDate": "2025-01-12",
+      "amount": 37506.64,
+      "deckCode": "DECK-003",
+      "afeNumber": "AFE-2025-0011",
+      "billingCategory": null
+    },
+    {
+      "txnId": 18,
+      "txnDate": "2025-01-11",
+      "amount": 299512.4,
+      "deckCode": "DECK-010",
+      "afeNumber": "AFE-2025-0002",
+      "billingCategory": null
+    },
+    {
+      "txnId": 17,
+      "txnDate": "2025-01-06",
+      "amount": 420850.51,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0030",
+      "billingCategory": null
+    },
+    {
+      "txnId": 112,
+      "txnDate": "2025-01-04",
+      "amount": 133659.61,
+      "deckCode": "DECK-019",
+      "afeNumber": "AFE-2025-0022",
+      "billingCategory": null
+    },
+    {
+      "txnId": 96,
+      "txnDate": "2024-12-30",
+      "amount": 78612.84,
+      "deckCode": "DECK-001",
+      "afeNumber": "AFE-2025-0015",
+      "billingCategory": null
+    },
+    {
+      "txnId": 118,
+      "txnDate": "2024-12-28",
+      "amount": 190066.7,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0020",
+      "billingCategory": null
+    },
+    {
+      "txnId": 85,
+      "txnDate": "2024-12-24",
+      "amount": 396487.14,
+      "deckCode": "DECK-008",
+      "afeNumber": "AFE-2025-0022",
+      "billingCategory": null
+    },
+    {
+      "txnId": 95,
+      "txnDate": "2024-12-20",
+      "amount": 284357.87,
+      "deckCode": "DECK-007",
+      "afeNumber": "AFE-2025-0007",
+      "billingCategory": null
+    },
+    {
+      "txnId": 76,
+      "txnDate": "2024-12-13",
+      "amount": 338705.91,
+      "deckCode": "DECK-003",
+      "afeNumber": "AFE-2025-0023",
+      "billingCategory": null
+    },
+    {
+      "txnId": 109,
+      "txnDate": "2024-12-13",
+      "amount": 112427.86,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0030",
+      "billingCategory": null
+    },
+    {
+      "txnId": 141,
+      "txnDate": "2024-12-01",
+      "amount": 393510.35,
+      "deckCode": "DECK-019",
+      "afeNumber": "AFE-2025-0027",
+      "billingCategory": null
+    },
+    {
+      "txnId": 75,
+      "txnDate": "2024-12-01",
+      "amount": 388918.16,
+      "deckCode": "DECK-019",
+      "afeNumber": "AFE-2025-0030",
+      "billingCategory": null
+    },
+    {
+      "txnId": 102,
+      "txnDate": "2024-12-01",
+      "amount": 288165.87,
+      "deckCode": "DECK-009",
+      "afeNumber": "AFE-2025-0019",
+      "billingCategory": null
+    },
+    {
+      "txnId": 8,
+      "txnDate": "2024-11-30",
+      "amount": 81410.78,
+      "deckCode": "DECK-003",
+      "afeNumber": "AFE-2025-0021",
+      "billingCategory": null
+    },
+    {
+      "txnId": 154,
+      "txnDate": "2024-11-26",
+      "amount": 51889.92,
+      "deckCode": "DECK-008",
+      "afeNumber": "AFE-2025-0004",
+      "billingCategory": null
+    },
+    {
+      "txnId": 127,
+      "txnDate": "2024-11-23",
+      "amount": 455317.42,
+      "deckCode": "DECK-008",
+      "afeNumber": "AFE-2025-0026",
+      "billingCategory": null
+    },
+    {
+      "txnId": 58,
+      "txnDate": "2024-11-21",
+      "amount": 12310.25,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0029",
+      "billingCategory": null
+    },
+    {
+      "txnId": 136,
+      "txnDate": "2024-11-21",
+      "amount": 58148.63,
+      "deckCode": "DECK-013",
+      "afeNumber": "AFE-2025-0012",
+      "billingCategory": null
+    },
+    {
+      "txnId": 122,
+      "txnDate": "2024-11-20",
+      "amount": 87617.17,
+      "deckCode": "DECK-016",
+      "afeNumber": "AFE-2025-0005",
+      "billingCategory": null
+    },
+    {
+      "txnId": 186,
+      "txnDate": "2024-11-19",
+      "amount": 451996.77,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0010",
+      "billingCategory": null
+    },
+    {
+      "txnId": 22,
+      "txnDate": "2024-11-18",
+      "amount": 112426.2,
+      "deckCode": "DECK-019",
+      "afeNumber": "AFE-2025-0001",
+      "billingCategory": null
+    },
+    {
+      "txnId": 198,
+      "txnDate": "2024-11-18",
+      "amount": 373683.56,
+      "deckCode": "DECK-008",
+      "afeNumber": "AFE-2025-0022",
+      "billingCategory": null
+    },
+    {
+      "txnId": 74,
+      "txnDate": "2024-11-11",
+      "amount": 334762.48,
+      "deckCode": "DECK-012",
+      "afeNumber": "AFE-2025-0020",
+      "billingCategory": null
+    },
+    {
+      "txnId": 131,
+      "txnDate": "2024-11-08",
+      "amount": 128559.35,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0004",
+      "billingCategory": null
+    },
+    {
+      "txnId": 175,
+      "txnDate": "2024-11-03",
+      "amount": 290206.67,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0016",
+      "billingCategory": null
+    },
+    {
+      "txnId": 25,
+      "txnDate": "2024-10-28",
+      "amount": 95285.92,
+      "deckCode": "DECK-014",
+      "afeNumber": "AFE-2025-0015",
+      "billingCategory": null
+    },
+    {
+      "txnId": 69,
+      "txnDate": "2024-10-26",
+      "amount": 362118.27,
+      "deckCode": "DECK-013",
+      "afeNumber": "AFE-2025-0019",
+      "billingCategory": null
+    },
+    {
+      "txnId": 111,
+      "txnDate": "2024-10-23",
+      "amount": 191854.65,
+      "deckCode": "DECK-014",
+      "afeNumber": "AFE-2025-0030",
+      "billingCategory": null
+    },
+    {
+      "txnId": 124,
+      "txnDate": "2024-10-18",
+      "amount": 37023.56,
+      "deckCode": "DECK-014",
+      "afeNumber": "AFE-2025-0009",
+      "billingCategory": null
+    },
+    {
+      "txnId": 62,
+      "txnDate": "2024-10-07",
+      "amount": 213427.7,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0025",
+      "billingCategory": null
+    },
+    {
+      "txnId": 132,
+      "txnDate": "2024-10-05",
+      "amount": 70464.43,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0003",
+      "billingCategory": null
+    },
+    {
+      "txnId": 119,
+      "txnDate": "2024-10-02",
+      "amount": 315617.39,
+      "deckCode": "DECK-014",
+      "afeNumber": "AFE-2025-0025",
+      "billingCategory": null
+    },
+    {
+      "txnId": 168,
+      "txnDate": "2024-09-27",
+      "amount": 39415.68,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0006",
+      "billingCategory": null
+    },
+    {
+      "txnId": 37,
+      "txnDate": "2024-09-26",
+      "amount": 142565.2,
+      "deckCode": "DECK-020",
+      "afeNumber": "AFE-2025-0021",
+      "billingCategory": null
+    },
+    {
+      "txnId": 164,
+      "txnDate": "2024-09-25",
+      "amount": 87929.83,
+      "deckCode": "DECK-017",
+      "afeNumber": "AFE-2025-0027",
+      "billingCategory": null
+    },
+    {
+      "txnId": 84,
+      "txnDate": "2024-09-20",
+      "amount": 120753.89,
+      "deckCode": "DECK-016",
+      "afeNumber": "AFE-2025-0023",
+      "billingCategory": null
+    },
+    {
+      "txnId": 13,
+      "txnDate": "2024-09-20",
+      "amount": 254812.19,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0006",
+      "billingCategory": null
+    },
+    {
+      "txnId": 93,
+      "txnDate": "2024-09-19",
+      "amount": 42681.94,
+      "deckCode": "DECK-020",
+      "afeNumber": "AFE-2025-0026",
+      "billingCategory": null
+    },
+    {
+      "txnId": 5,
+      "txnDate": "2024-09-18",
+      "amount": 423762.43,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0030",
+      "billingCategory": null
+    },
+    {
+      "txnId": 162,
+      "txnDate": "2024-09-14",
+      "amount": 263514.36,
+      "deckCode": "DECK-020",
+      "afeNumber": "AFE-2025-0001",
+      "billingCategory": null
+    },
+    {
+      "txnId": 83,
+      "txnDate": "2024-09-09",
+      "amount": 398936.4,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0017",
+      "billingCategory": "CAT-110"
+    },
+    {
+      "txnId": 170,
+      "txnDate": "2024-09-07",
+      "amount": 118210.8,
+      "deckCode": "DECK-020",
+      "afeNumber": "AFE-2025-0025",
+      "billingCategory": null
+    },
+    {
+      "txnId": 56,
+      "txnDate": "2024-08-24",
+      "amount": 232547.6,
+      "deckCode": "DECK-006",
+      "afeNumber": "AFE-2025-0003",
+      "billingCategory": null
+    },
+    {
+      "txnId": 120,
+      "txnDate": "2024-08-17",
+      "amount": 221894.91,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0002",
+      "billingCategory": null
+    },
+    {
+      "txnId": 125,
+      "txnDate": "2024-08-16",
+      "amount": 99688.58,
+      "deckCode": "DECK-008",
+      "afeNumber": "AFE-2025-0019",
+      "billingCategory": null
+    },
+    {
+      "txnId": 177,
+      "txnDate": "2024-08-11",
+      "amount": 123947.09,
+      "deckCode": "DECK-012",
+      "afeNumber": "AFE-2025-0030",
+      "billingCategory": null
+    },
+    {
+      "txnId": 166,
+      "txnDate": "2024-08-10",
+      "amount": 286742.5,
+      "deckCode": "DECK-001",
+      "afeNumber": "AFE-2025-0006",
+      "billingCategory": null
+    },
+    {
+      "txnId": 97,
+      "txnDate": "2024-08-06",
+      "amount": 235009.25,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0022",
+      "billingCategory": null
+    },
+    {
+      "txnId": 137,
+      "txnDate": "2024-07-30",
+      "amount": 209621.46,
+      "deckCode": "DECK-016",
+      "afeNumber": "AFE-2025-0014",
+      "billingCategory": null
+    },
+    {
+      "txnId": 128,
+      "txnDate": "2024-07-29",
+      "amount": 318345.28,
+      "deckCode": "DECK-004",
+      "afeNumber": "AFE-2025-0021",
+      "billingCategory": null
+    },
+    {
+      "txnId": 101,
+      "txnDate": "2024-07-27",
+      "amount": 367293.51,
+      "deckCode": "DECK-019",
+      "afeNumber": "AFE-2025-0001",
+      "billingCategory": null
+    },
+    {
+      "txnId": 105,
+      "txnDate": "2024-07-25",
+      "amount": 126274.19,
+      "deckCode": "DECK-017",
+      "afeNumber": "AFE-2025-0001",
+      "billingCategory": null
+    },
+    {
+      "txnId": 197,
+      "txnDate": "2024-07-23",
+      "amount": 253713.12,
+      "deckCode": "DECK-002",
+      "afeNumber": "AFE-2025-0013",
+      "billingCategory": null
+    },
+    {
+      "txnId": 59,
+      "txnDate": "2024-07-22",
+      "amount": 97298.17,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0023",
+      "billingCategory": null
+    },
+    {
+      "txnId": 146,
+      "txnDate": "2024-07-18",
+      "amount": 110852.72,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0001",
+      "billingCategory": null
+    },
+    {
+      "txnId": 108,
+      "txnDate": "2024-07-17",
+      "amount": 60800.9,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0018",
+      "billingCategory": "CAT-114"
+    },
+    {
+      "txnId": 4,
+      "txnDate": "2024-07-17",
+      "amount": 170191.23,
+      "deckCode": "DECK-004",
+      "afeNumber": "AFE-2025-0013",
+      "billingCategory": null
+    },
+    {
+      "txnId": 151,
+      "txnDate": "2024-07-17",
+      "amount": 213439.33,
+      "deckCode": "DECK-016",
+      "afeNumber": "AFE-2025-0003",
+      "billingCategory": null
+    },
+    {
+      "txnId": 35,
+      "txnDate": "2024-07-07",
+      "amount": 335877.94,
+      "deckCode": "DECK-001",
+      "afeNumber": "AFE-2025-0020",
+      "billingCategory": null
+    },
+    {
+      "txnId": 30,
+      "txnDate": "2024-07-07",
+      "amount": 132675.01,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0010",
+      "billingCategory": null
+    },
+    {
+      "txnId": 87,
+      "txnDate": "2024-07-02",
+      "amount": 125776.7,
+      "deckCode": "DECK-004",
+      "afeNumber": "AFE-2025-0018",
+      "billingCategory": null
+    },
+    {
+      "txnId": 172,
+      "txnDate": "2024-06-30",
+      "amount": 432137.01,
+      "deckCode": "DECK-016",
+      "afeNumber": "AFE-2025-0021",
+      "billingCategory": null
+    },
+    {
+      "txnId": 40,
+      "txnDate": "2024-06-26",
+      "amount": 252753.99,
+      "deckCode": "DECK-003",
+      "afeNumber": "AFE-2025-0014",
+      "billingCategory": null
+    },
+    {
+      "txnId": 135,
+      "txnDate": "2024-06-26",
+      "amount": 454702.88,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0002",
+      "billingCategory": null
+    },
+    {
+      "txnId": 86,
+      "txnDate": "2024-06-21",
+      "amount": 236682.92,
+      "deckCode": "DECK-012",
+      "afeNumber": "AFE-2025-0015",
+      "billingCategory": null
+    },
+    {
+      "txnId": 88,
+      "txnDate": "2024-06-19",
+      "amount": 95851.33,
+      "deckCode": "DECK-004",
+      "afeNumber": "AFE-2025-0007",
+      "billingCategory": null
+    },
+    {
+      "txnId": 147,
+      "txnDate": "2024-06-15",
+      "amount": 423664.54,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0029",
+      "billingCategory": null
+    },
+    {
+      "txnId": 142,
+      "txnDate": "2024-06-13",
+      "amount": 164346.92,
+      "deckCode": "DECK-009",
+      "afeNumber": "AFE-2025-0005",
+      "billingCategory": null
+    },
+    {
+      "txnId": 77,
+      "txnDate": "2024-06-05",
+      "amount": 51040.46,
+      "deckCode": "DECK-019",
+      "afeNumber": "AFE-2025-0002",
+      "billingCategory": null
+    },
+    {
+      "txnId": 63,
+      "txnDate": "2024-06-01",
+      "amount": 382930.26,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0023",
+      "billingCategory": null
+    },
+    {
+      "txnId": 31,
+      "txnDate": "2024-05-31",
+      "amount": 289632.23,
+      "deckCode": "DECK-002",
+      "afeNumber": "AFE-2025-0016",
+      "billingCategory": null
+    },
+    {
+      "txnId": 163,
+      "txnDate": "2024-05-27",
+      "amount": 472667.51,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0001",
+      "billingCategory": null
+    },
+    {
+      "txnId": 78,
+      "txnDate": "2024-05-17",
+      "amount": 214246.17,
+      "deckCode": "DECK-001",
+      "afeNumber": "AFE-2025-0014",
+      "billingCategory": null
+    },
+    {
+      "txnId": 148,
+      "txnDate": "2024-05-10",
+      "amount": 304187.88,
+      "deckCode": "DECK-013",
+      "afeNumber": "AFE-2025-0017",
+      "billingCategory": null
+    },
+    {
+      "txnId": 184,
+      "txnDate": "2024-05-08",
+      "amount": 298663.5,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0014",
+      "billingCategory": null
+    },
+    {
+      "txnId": 57,
+      "txnDate": "2024-04-27",
+      "amount": 331960.53,
+      "deckCode": "DECK-010",
+      "afeNumber": "AFE-2025-0026",
+      "billingCategory": null
+    },
+    {
+      "txnId": 179,
+      "txnDate": "2024-04-27",
+      "amount": 339221.83,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0019",
+      "billingCategory": null
+    },
+    {
+      "txnId": 29,
+      "txnDate": "2024-04-21",
+      "amount": 203266.39,
+      "deckCode": "DECK-002",
+      "afeNumber": "AFE-2025-0013",
+      "billingCategory": null
+    },
+    {
+      "txnId": 169,
+      "txnDate": "2024-04-14",
+      "amount": 316649.01,
+      "deckCode": "DECK-012",
+      "afeNumber": "AFE-2025-0027",
+      "billingCategory": null
+    },
+    {
+      "txnId": 100,
+      "txnDate": "2024-04-14",
+      "amount": 349896.87,
+      "deckCode": "DECK-015",
+      "afeNumber": "AFE-2025-0020",
+      "billingCategory": null
+    },
+    {
+      "txnId": 14,
+      "txnDate": "2024-04-11",
+      "amount": 298244.87,
+      "deckCode": "DECK-017",
+      "afeNumber": "AFE-2025-0018",
+      "billingCategory": null
+    },
+    {
+      "txnId": 60,
+      "txnDate": "2024-04-07",
+      "amount": 389232.36,
+      "deckCode": "DECK-002",
+      "afeNumber": "AFE-2025-0008",
+      "billingCategory": null
+    },
+    {
+      "txnId": 68,
+      "txnDate": "2024-03-31",
+      "amount": 448915.89,
+      "deckCode": "DECK-016",
+      "afeNumber": "AFE-2025-0013",
+      "billingCategory": null
+    },
+    {
+      "txnId": 190,
+      "txnDate": "2024-03-22",
+      "amount": 442326.42,
+      "deckCode": "DECK-017",
+      "afeNumber": "AFE-2025-0008",
+      "billingCategory": null
+    },
+    {
+      "txnId": 91,
+      "txnDate": "2024-03-17",
+      "amount": 234751.53,
+      "deckCode": "DECK-009",
+      "afeNumber": "AFE-2025-0016",
+      "billingCategory": null
+    },
+    {
+      "txnId": 114,
+      "txnDate": "2024-03-14",
+      "amount": 285941.64,
+      "deckCode": "DECK-002",
+      "afeNumber": "AFE-2025-0024",
+      "billingCategory": null
+    },
+    {
+      "txnId": 144,
+      "txnDate": "2024-03-13",
+      "amount": 294467.58,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0014",
+      "billingCategory": null
+    },
+    {
+      "txnId": 158,
+      "txnDate": "2024-03-12",
+      "amount": 370510.43,
+      "deckCode": "DECK-013",
+      "afeNumber": "AFE-2025-0015",
+      "billingCategory": null
+    },
+    {
+      "txnId": 79,
+      "txnDate": "2024-03-12",
+      "amount": 52858.88,
+      "deckCode": "DECK-005",
+      "afeNumber": "AFE-2025-0006",
+      "billingCategory": null
+    },
+    {
+      "txnId": 19,
+      "txnDate": "2024-03-10",
+      "amount": 473480.03,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0005",
+      "billingCategory": null
+    },
+    {
+      "txnId": 16,
+      "txnDate": "2024-03-10",
+      "amount": 226916.48,
+      "deckCode": "DECK-017",
+      "afeNumber": "AFE-2025-0028",
+      "billingCategory": null
+    },
+    {
+      "txnId": 26,
+      "txnDate": "2024-03-08",
+      "amount": 336714.94,
+      "deckCode": "DECK-004",
+      "afeNumber": "AFE-2025-0007",
+      "billingCategory": null
+    },
+    {
+      "txnId": 39,
+      "txnDate": "2024-03-06",
+      "amount": 371234.1,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0022",
+      "billingCategory": null
+    },
+    {
+      "txnId": 45,
+      "txnDate": "2024-03-03",
+      "amount": 462889.33,
+      "deckCode": "DECK-014",
+      "afeNumber": "AFE-2025-0006",
+      "billingCategory": "CAT-125"
+    },
+    {
+      "txnId": 159,
+      "txnDate": "2024-02-26",
+      "amount": 185089.54,
+      "deckCode": "DECK-002",
+      "afeNumber": "AFE-2025-0006",
+      "billingCategory": null
+    },
+    {
+      "txnId": 89,
+      "txnDate": "2024-02-24",
+      "amount": 180504.45,
+      "deckCode": "DECK-009",
+      "afeNumber": "AFE-2025-0002",
+      "billingCategory": null
+    },
+    {
+      "txnId": 183,
+      "txnDate": "2024-02-22",
+      "amount": 147966.47,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0025",
+      "billingCategory": null
+    },
+    {
+      "txnId": 20,
+      "txnDate": "2024-02-19",
+      "amount": 473429.65,
+      "deckCode": "DECK-007",
+      "afeNumber": "AFE-2025-0025",
+      "billingCategory": null
+    },
+    {
+      "txnId": 34,
+      "txnDate": "2024-02-16",
+      "amount": 282656.94,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0009",
+      "billingCategory": null
+    },
+    {
+      "txnId": 106,
+      "txnDate": "2024-02-15",
+      "amount": 231041.97,
+      "deckCode": "DECK-020",
+      "afeNumber": "AFE-2025-0016",
+      "billingCategory": null
+    },
+    {
+      "txnId": 129,
+      "txnDate": "2024-02-13",
+      "amount": 394326.38,
+      "deckCode": "DECK-003",
+      "afeNumber": "AFE-2025-0011",
+      "billingCategory": null
+    },
+    {
+      "txnId": 104,
+      "txnDate": "2024-02-08",
+      "amount": 164968.85,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0015",
+      "billingCategory": null
+    },
+    {
+      "txnId": 50,
+      "txnDate": "2024-02-06",
+      "amount": 89366.05,
+      "deckCode": "DECK-012",
+      "afeNumber": "AFE-2025-0026",
+      "billingCategory": null
+    },
+    {
+      "txnId": 11,
+      "txnDate": "2024-02-04",
+      "amount": 438196.18,
+      "deckCode": "DECK-013",
+      "afeNumber": "AFE-2025-0015",
+      "billingCategory": null
+    },
+    {
+      "txnId": 94,
+      "txnDate": "2024-01-26",
+      "amount": 387869.2,
+      "deckCode": "DECK-010",
+      "afeNumber": "AFE-2025-0019",
+      "billingCategory": null
+    },
+    {
+      "txnId": 7,
+      "txnDate": "2024-01-19",
+      "amount": 492612.24,
+      "deckCode": "DECK-009",
+      "afeNumber": "AFE-2025-0021",
+      "billingCategory": null
+    },
+    {
+      "txnId": 174,
+      "txnDate": "2024-01-16",
+      "amount": 415865.15,
+      "deckCode": "DECK-020",
+      "afeNumber": "AFE-2025-0017",
+      "billingCategory": null
+    },
+    {
+      "txnId": 52,
+      "txnDate": "2024-01-13",
+      "amount": 260008.18,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0011",
+      "billingCategory": null
+    },
+    {
+      "txnId": 182,
+      "txnDate": "2024-01-12",
+      "amount": 154502.15,
+      "deckCode": "DECK-007",
+      "afeNumber": "AFE-2025-0005",
+      "billingCategory": null
+    },
+    {
+      "txnId": 121,
+      "txnDate": "2024-01-12",
+      "amount": 187483.06,
+      "deckCode": "DECK-019",
+      "afeNumber": "AFE-2025-0026",
+      "billingCategory": null
+    },
+    {
+      "txnId": 167,
+      "txnDate": "2024-01-07",
+      "amount": 230102.44,
+      "deckCode": "DECK-008",
+      "afeNumber": "AFE-2025-0019",
+      "billingCategory": null
+    },
+    {
+      "txnId": 51,
+      "txnDate": "2024-01-05",
+      "amount": 303143.81,
+      "deckCode": "DECK-009",
+      "afeNumber": "AFE-2025-0023",
+      "billingCategory": null
+    },
+    {
+      "txnId": 199,
+      "txnDate": "2024-01-04",
+      "amount": 385773.54,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0027",
+      "billingCategory": null
+    },
+    {
+      "txnId": 107,
+      "txnDate": "2023-12-30",
+      "amount": 380019.27,
+      "deckCode": "DECK-010",
+      "afeNumber": "AFE-2025-0029",
+      "billingCategory": null
+    },
+    {
+      "txnId": 15,
+      "txnDate": "2023-12-23",
+      "amount": 340173.68,
+      "deckCode": "DECK-011",
+      "afeNumber": "AFE-2025-0010",
+      "billingCategory": null
+    },
+    {
+      "txnId": 42,
+      "txnDate": "2023-12-22",
+      "amount": 280497.34,
+      "deckCode": "DECK-018",
+      "afeNumber": "AFE-2025-0027",
+      "billingCategory": null
+    },
+    {
+      "txnId": 130,
+      "txnDate": "2023-12-21",
+      "amount": 87902.47,
+      "deckCode": "DECK-017",
+      "afeNumber": "AFE-2025-0030",
+      "billingCategory": null
+    },
+    {
+      "txnId": 71,
+      "txnDate": "2023-12-19",
+      "amount": 105908.98,
+      "deckCode": "DECK-009",
+      "afeNumber": "AFE-2025-0027",
+      "billingCategory": null
+    },
+    {
+      "txnId": 41,
+      "txnDate": "2023-12-17",
+      "amount": 22138.97,
+      "deckCode": "DECK-006",
+      "afeNumber": "AFE-2025-0015",
+      "billingCategory": null
+    },
+    {
+      "txnId": 54,
+      "txnDate": "2023-12-15",
+      "amount": 63731.17,
+      "deckCode": "DECK-006",
+      "afeNumber": "AFE-2025-0019",
+      "billingCategory": null
+    }
+  ]
+}
